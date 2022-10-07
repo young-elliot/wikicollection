@@ -1,0 +1,89 @@
+[
+    {
+        "label": "pyautogui",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyautogui",
+        "description": "pyautogui",
+        "detail": "pyautogui",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "pyperclip",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyperclip",
+        "description": "pyperclip",
+        "detail": "pyperclip",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "importPath": "mitmproxy.options",
+        "description": "mitmproxy.options",
+        "isExtraImport": true,
+        "detail": "mitmproxy.options",
+        "documentation": {}
+    },
+    {
+        "label": "DumpMaster",
+        "importPath": "mitmproxy.tools.dump",
+        "description": "mitmproxy.tools.dump",
+        "isExtraImport": true,
+        "detail": "mitmproxy.tools.dump",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "RequestLogger",
+        "kind": 6,
+        "importPath": "sx",
+        "description": "sx",
+        "peekOfCode": "class RequestLogger:\n    def request(self, flow):\n        # if \"/en/app/Search/PaintingAdvancedSearch/\" in flow.request:\n        # print(help(flow))\n        print(\"cookies\",flow.request.cookies)\n        print(\"url\",flow.request.url)\n    # def response(self,flow):\n    #     print(flow.response)\nasync def start_proxy():\n    opts = Options(listen_host=\"127.0.0.1\", listen_port=8090)",
+        "detail": "sx",
+        "documentation": {}
+    }
+]

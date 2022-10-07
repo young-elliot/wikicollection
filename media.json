@@ -1,0 +1,4573 @@
+[
+    {
+        "_id": {
+            "_oid": "57726bccedc2cb3880ae722e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "acrylic",
+                    "ru": "акрил",
+                    "es": "acrílico",
+                    "uk": "акрил",
+                    "de": "Acryl",
+                    "zh": "壓克力顏料"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bccedc2cb3880ae7236"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "aerography",
+                    "ru": "аэрография",
+                    "es": "aerografía",
+                    "uk": "аерографія",
+                    "de": "Luftbildphotographie"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5f38ff9eedc2c9e178c777f6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "albumen silver",
+                    "ca": "Còpia a l'albúmina",
+                    "cs": "Albuminový papír",
+                    "de": "Albuminpapier",
+                    "es": "Copia a la albúmina",
+                    "fa": "چاپ سفیده تخم\u200cمرغ",
+                    "fr": "Papier albuminé",
+                    "hu": "Albuminpapír",
+                    "id": "Cetak albumen",
+                    "it": "Stampa all'albume",
+                    "ja": "鶏卵紙",
+                    "nl": "Albuminedruk",
+                    "pl": "Odbitka albuminowa",
+                    "pt": "Papel albuminado",
+                    "ru": "Альбуминовая печать",
+                    "sv": "Albuminfotografi",
+                    "th": "การถ\u0e48ายภาพแบบแอลบ\u0e39เมน",
+                    "tr": "Albümin baskısı",
+                    "zh": "蛋白印相"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7190"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "aluminium",
+                    "uk": "алюміній",
+                    "ru": "алюминий",
+                    "zh": "鋁"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae757e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "appropriation",
+                    "ru": "апроприация",
+                    "de": "Appropriation",
+                    "uk": "апропріація",
+                    "zh": "挪用"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bccedc2cb3880ae7246"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "aquatint",
+                    "ru": "акватинта",
+                    "es": "acuatinta",
+                    "uk": "акватинта",
+                    "de": "Aquatinta",
+                    "zh": "蝕刻式凹版"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bccedc2cb3880ae723e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "assemblage",
+                    "ru": "ассамбляж",
+                    "es": "ensamblaje",
+                    "uk": "асамбляж",
+                    "de": "Assemblage",
+                    "zh": "組合"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57f64e7aedc2c96b20100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "augmented reality",
+                    "ar": "واقع معزز",
+                    "bg": "Обогатена реалност",
+                    "ca": "Realitat augmentada",
+                    "cs": "Rozšířená realita",
+                    "da": "Augmented reality",
+                    "de": "Erweiterte Realität",
+                    "es": "Realidad aumentada",
+                    "fa": "واقعیت افزوده",
+                    "fi": "Lisätty todellisuus",
+                    "fr": "Réalité augmentée",
+                    "he": "מציאות רבודה",
+                    "hu": "Kiterjesztett valóság",
+                    "id": "Realitas tertambah",
+                    "it": "Realtà aumentata",
+                    "ja": "拡張現実",
+                    "ko": "증강현실",
+                    "nl": "Toegevoegde realiteit",
+                    "pl": "Rzeczywistość rozszerzona",
+                    "pt": "Realidade aumentada",
+                    "ro": "Realitate augmentată",
+                    "ru": "Дополненная реальность",
+                    "sv": "Förstärkt verklighet",
+                    "th": "ความเป\u0e47นจร\u0e34งเสร\u0e34ม",
+                    "tr": "Artırılmış gerçeklik",
+                    "uk": "доповнена реальність",
+                    "zh": "擴增實境",
+                    "no": "Utvidet virkelighet",
+                    "el": "Επαυξημένη πραγματικότητα"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eec8fe9edc2c933a8100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "basalt",
+                    "ar": "بازلت",
+                    "bg": "Базалт",
+                    "ca": "Basalt",
+                    "cs": "Čedič",
+                    "da": "Basalt",
+                    "de": "Basalt",
+                    "el": "Βασάλτης",
+                    "es": "Basalto",
+                    "fa": "بازالت",
+                    "fi": "Basaltti",
+                    "fr": "Basalte",
+                    "he": "בזלת",
+                    "hu": "Bazalt",
+                    "id": "Basal",
+                    "it": "Basalto",
+                    "ja": "玄武岩",
+                    "ko": "현무암",
+                    "nl": "Basalt",
+                    "no": "Basalt",
+                    "pl": "Bazalt",
+                    "pt": "Basalto",
+                    "ro": "Bazalt",
+                    "ru": "Базальт",
+                    "sv": "Basalt",
+                    "th": "ห\u0e34นบะซอลต\u0e4c",
+                    "tr": "Bazalt",
+                    "uk": "Базальт",
+                    "vi": "Bazan",
+                    "zh": "玄武岩"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae7536"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "bas-relief",
+                    "uk": "барельєф",
+                    "ru": "барельеф",
+                    "de": "Relief",
+                    "zh": "淺浮雕"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bccedc2cb3880ae724e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "batic",
+                    "ru": "батик",
+                    "es": "batik",
+                    "uk": "батік",
+                    "de": "Batik"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5813d773edc2c98a94100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "binder",
+                    "uk": "",
+                    "zh": "黏著劑"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "60d51b3b9e43631948100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "blockchain",
+                    "ar": "سلسلة الكتل",
+                    "bg": "Блокчейн",
+                    "ca": "Blockchain",
+                    "cs": "Blockchain",
+                    "da": "Blockchain",
+                    "de": "Blockchain",
+                    "el": "Blockchain",
+                    "es": "Cadena de bloques",
+                    "fa": "زنجیره بلوکی",
+                    "fi": "Lohkoketju",
+                    "fr": "Blockchain",
+                    "he": "בלוקצ'יין",
+                    "hu": "Blokklánc",
+                    "id": "Rantai blok",
+                    "it": "Blockchain",
+                    "ja": "ブロックチェ\u30fcン",
+                    "ko": "블록체인",
+                    "nl": "Blockchain",
+                    "pl": "Blockchain",
+                    "pt": "Blockchain",
+                    "ro": "Blockchain",
+                    "ru": "Блокчейн",
+                    "sv": "Blockkedja",
+                    "th": "บล\u0e47อกเชน",
+                    "tr": "Blok zinciri",
+                    "uk": "Блокчейн",
+                    "vi": "Blockchain",
+                    "zh": "区块链"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f68"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "board",
+                    "ru": "доска",
+                    "uk": "дошка",
+                    "zh": "紙板"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5cb1daffedc2c9892c100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "bones",
+                    "uk": "кістки",
+                    "ru": "кости"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "58b2a5eeedc2c97404100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "book",
+                    "uk": "книга",
+                    "ru": "книга"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "581f5154edc2c987e8100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "box",
+                    "uk": "ящик",
+                    "ru": "ящик"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5cd0201aedc2c93b9c100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "brass",
+                    "uk": "латунь",
+                    "ru": "латунь",
+                    "zh": "黃銅"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae746e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "bronze",
+                    "es": "bronce",
+                    "uk": "бронза",
+                    "ru": "бронза",
+                    "de": "Bronze",
+                    "zh": "青銅"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bccedc2cb3880ae7256"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "brush",
+                    "ru": "кисть",
+                    "es": "cepillar",
+                    "de": "Pinsel",
+                    "uk": "пензель",
+                    "zh": "筆刷"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7098"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "burlap",
+                    "uk": "брезент",
+                    "ru": "брезент",
+                    "zh": "麻布"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "581fae33edc2c96120100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "cable",
+                    "uk": "трос",
+                    "ru": "трос",
+                    "zh": "電纜線"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae73de"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "cameo",
+                    "ru": "камея",
+                    "es": "cameo",
+                    "uk": "камея",
+                    "de": "Kamee",
+                    "zh": "寶石浮雕"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f70"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "canvas",
+                    "ru": "холст",
+                    "uk": "полотно",
+                    "zh": "畫布"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5c5c20e1edc2c97c44100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "carbon fiber",
+                    "uk": "карбонове волокно",
+                    "ru": "карбоновое волокно",
+                    "zh": "碳纖維"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7160"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "card",
+                    "ru": "карта",
+                    "uk": "картка",
+                    "zh": "卡紙"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae745e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "cardboard",
+                    "es": "cartón",
+                    "ru": "картон",
+                    "de": "Pappe",
+                    "uk": "картон",
+                    "zh": "硬紙板"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae756e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "casein",
+                    "ru": "казеин",
+                    "de": "Casein",
+                    "uk": "казеїн",
+                    "zh": "酪蛋白顏料"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae74ee"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "cement",
+                    "uk": "цемент",
+                    "ru": "цемент",
+                    "de": "Zement",
+                    "zh": "水泥"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad70e0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "ceramics",
+                    "uk": "кераміка",
+                    "ru": "керамика"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bccedc2cb3880ae725e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "chalk",
+                    "ru": "мел",
+                    "es": "tiza",
+                    "uk": "крейда",
+                    "de": "Kreide",
+                    "zh": "粉筆"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bccedc2cb3880ae7266"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "charcoal",
+                    "ru": "уголь",
+                    "es": "carbón",
+                    "uk": "вугілля",
+                    "de": "Zeichenkohle"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae752e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "chisel",
+                    "ru": "резец",
+                    "de": "Meißel",
+                    "uk": "різець"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f78"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "clay",
+                    "ru": "глина",
+                    "uk": "глина"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5bc98118edc2c91b68c1eb27"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "cliché-verre",
+                    "uk": "cliché-verre (скляне кліше)"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7168"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "cloth",
+                    "ru": "тркань",
+                    "uk": "тканина"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae755e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "coal",
+                    "ru": "уголь",
+                    "de": "Kohle",
+                    "uk": "вугілля",
+                    "zh": "碳筆"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bccedc2cb3880ae726e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "collage",
+                    "ru": "коллаж",
+                    "es": "collage",
+                    "uk": "колаж",
+                    "de": "Collage"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5e33e1f2edc2c912208a2e64"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "collotype",
+                    "uk": "фототипія",
+                    "ru": "фотопечать"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7486"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "color varnish",
+                    "es": "barnizƒ de color",
+                    "ru": "цветной лак",
+                    "de": "Farblack",
+                    "uk": "кольоровий лак"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5ee60c78edc2c978b888549f"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "colored markers",
+                    "uk": "кольорові фломастери",
+                    "ru": "цветные фломастеры"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bccedc2cb3880ae7276"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "colored pencils",
+                    "ru": "цветные карандаши",
+                    "es": "lápices de colores",
+                    "uk": "кольорові олівці",
+                    "de": "Farbstifte"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7100"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "concrete",
+                    "uk": "бетон",
+                    "ru": "бетон"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f80"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "copper",
+                    "ru": "медь",
+                    "uk": "мідь",
+                    "zh": "銅"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad70d0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "cotton",
+                    "uk": "бавовна",
+                    "ru": "хлопок"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae727e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "crayon",
+                    "ru": "мелок",
+                    "es": "crayón",
+                    "uk": "восковий олівець",
+                    "de": "Malkreide",
+                    "zh": "蠟筆"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7286"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "decoupage",
+                    "ru": "декупаж",
+                    "es": "decoupage",
+                    "uk": "декупаж",
+                    "de": "Decoupage"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae7586"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "digital",
+                    "de": "digital",
+                    "uk": "цифровий носій",
+                    "ru": "цифровой носитель"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "581b4420edc2c99e88100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "drawing",
+                    "uk": "малюнок",
+                    "ru": "рисунок",
+                    "zh": "素描"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae728e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "drypoint",
+                    "ru": "сухая игла",
+                    "es": "punta seca",
+                    "uk": "суха голка",
+                    "de": "Kaltnadelradierung"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f88"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "dust",
+                    "ru": "пыль",
+                    "uk": "пил"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eb0e25aedc2c9c8f8100002"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "elephant dung",
+                    "uk": "слоняче лайно",
+                    "ru": "слоновьи экскременты"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae742e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "embroidery",
+                    "ru": "вышивка",
+                    "es": "bordado",
+                    "uk": "вишивка",
+                    "de": "Stickerei"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae74de"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "emulsion",
+                    "es": "emulsión",
+                    "ru": "эмульсия",
+                    "de": "Emulsion",
+                    "uk": "емульсія"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7296"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "enamel",
+                    "ru": "эмаль",
+                    "es": "esmalte",
+                    "uk": "емаль",
+                    "de": "Emaille",
+                    "zh": "琺瑯"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae729e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "encaustic",
+                    "ru": "энкаустика",
+                    "es": "encáustico",
+                    "uk": "енкаустика",
+                    "de": "Enkaustik"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae72a6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "engraving",
+                    "ru": "гравюра",
+                    "es": "grabado",
+                    "uk": "гравюра",
+                    "de": "Gravur"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae72ae"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "etching",
+                    "ru": "травление",
+                    "es": "aguafuerte",
+                    "uk": "офорт",
+                    "de": "Radierung",
+                    "zh": "蝕刻"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae74a6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "fabric",
+                    "es": "tela",
+                    "ru": "ткань",
+                    "de": "Stoff",
+                    "uk": "тканина"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f90"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "fabric straps",
+                    "ru": "полоски ткани",
+                    "uk": "смужки тканини"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f98"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "fat",
+                    "ru": "жир",
+                    "uk": "жир"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7120"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "feather",
+                    "uk": "пір'я",
+                    "ru": "перья"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6fa0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "felt",
+                    "ru": "войлок",
+                    "uk": "войлок"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7466"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "felt-tip pen",
+                    "es": "rotulador",
+                    "ru": "фломастер",
+                    "de": "Filzstift",
+                    "uk": "фломастер"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6fa8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "fiberboard",
+                    "ru": "фибролит",
+                    "uk": "фіброліт"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad71b0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "fiberglass",
+                    "uk": "скловолокно",
+                    "ru": "стекловолокно"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "583dac9dedc2cb4640100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "fibre",
+                    "uk": "волокно",
+                    "ru": "волокно"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6fb0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "flashlight",
+                    "ru": "фонарь",
+                    "uk": "ліхтар"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae7546"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "fluorescent paint",
+                    "ru": "флуоресцентная краска",
+                    "de": "fluoreszierende Farbe",
+                    "uk": "флуоресцентна фарба"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae72b6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "fresco",
+                    "ru": "фреска",
+                    "es": "fresco",
+                    "uk": "фреска",
+                    "de": "Fresko"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae73f6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "frottage",
+                    "ru": "фроттаж",
+                    "es": "frottage",
+                    "uk": "фроттаж",
+                    "de": "Frottage"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae7566"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "fumage",
+                    "ru": "фьюмаж",
+                    "de": "Fumage",
+                    "uk": "фумаж"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5f1b2609edc2c955ec0f1e4b"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "gelatin silver print"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5978a399edc2cca3180e5a87"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "gesso",
+                    "ca": "Gesso",
+                    "da": "Gesso",
+                    "de": "Gesso",
+                    "es": "Gesso",
+                    "fi": "Gesso",
+                    "fr": "Gesso",
+                    "he": "ג'סו",
+                    "it": "Gesso",
+                    "nl": "Gesso",
+                    "no": "Gesso",
+                    "sv": "Gesso",
+                    "uk": "левкас",
+                    "zh": "石膏底料",
+                    "ru": "джессо"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5a0883d1edc2c96388100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "gilt"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae748e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "glass",
+                    "es": "vidrio",
+                    "uk": "скло",
+                    "ru": "стекло",
+                    "de": "Glas",
+                    "zh": "玻璃"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae754e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "glitter",
+                    "uk": "блискітки",
+                    "ru": "блестки",
+                    "de": "Glitzer"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae72be"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "gloss",
+                    "ru": "лак",
+                    "es": "brillo",
+                    "uk": "лак",
+                    "de": "Glanz"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae7506"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "gold",
+                    "uk": "золото",
+                    "ru": "золото",
+                    "de": "Gold",
+                    "zh": "黃金"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad70f0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "gold leaf",
+                    "ru": "золотая фольга",
+                    "uk": "золотий лист",
+                    "zh": "金箔"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae72c6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "gouache",
+                    "ru": "гуашь",
+                    "es": "gouache",
+                    "uk": "гуаш",
+                    "de": "Gouache",
+                    "zh": "不透明水彩"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae7516"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "graffiti",
+                    "ru": "граффити",
+                    "de": "Graffiti",
+                    "uk": "граффіті"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae74b6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "granite",
+                    "es": "granito",
+                    "uk": "граніт",
+                    "ru": "гранит",
+                    "de": "Granit"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae72ce"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "graphite",
+                    "ru": "графит",
+                    "es": "grafito",
+                    "uk": "графіт",
+                    "de": "Graphit"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5ee60c94edc2c978b889563a"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "graphite pencil",
+                    "uk": "графітний олівець",
+                    "ru": "графитный карандаш"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5c9f748dedc2c92510100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "grattage",
+                    "ca": "Grattage",
+                    "cs": "Gratáž",
+                    "da": "Grattage",
+                    "de": "Grattage",
+                    "es": "Grattage",
+                    "fa": "خراش\u200cنگاری",
+                    "fi": "Raapekartonki",
+                    "id": "Papan gores",
+                    "it": "Grattage",
+                    "ja": "スクラッチボ\u30fcド",
+                    "nl": "Grattage",
+                    "pl": "Grataż",
+                    "pt": "Grattage",
+                    "ru": "Граттаж",
+                    "sv": "Grattage"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eec98fbedc2c933a8100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "greenstone"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae72d6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "grisaille",
+                    "ru": "гризай",
+                    "es": "gris",
+                    "uk": "грізайль",
+                    "de": "Grisaille"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5a0a6edcedc2c959ec100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "gum arabic",
+                    "ar": "صمغ عربي",
+                    "bg": "Гума арабика",
+                    "ca": "Goma aràbiga",
+                    "cs": "Arabská guma",
+                    "da": "Gummi arabikum",
+                    "de": "Gummi arabicum",
+                    "el": "Αραβικό κόμμι",
+                    "es": "Goma arábiga",
+                    "fa": "صمغ عربی",
+                    "fi": "Arabikumi",
+                    "fr": "Gomme arabique",
+                    "he": "גומי ערבי",
+                    "hu": "Gumiarábikum",
+                    "id": "Gom arab",
+                    "it": "Gomma arabica",
+                    "ja": "アラビアガム",
+                    "ko": "아라비아검",
+                    "nl": "Arabische gom",
+                    "no": "Gummi arabicum",
+                    "pl": "Guma arabska",
+                    "pt": "Goma-arábica",
+                    "ro": "Gumă arabică",
+                    "ru": "Гуммиарабик",
+                    "sv": "Gummi arabicum",
+                    "tr": "Arap zamkı",
+                    "uk": "гуміарабік",
+                    "zh": "阿拉伯膠"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eec6a9dedc2c933a8100003"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "hematite"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5817cf95edc2c949a4100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "hemp",
+                    "uk": "коноплі",
+                    "ru": "конопля"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7128"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "hologram",
+                    "uk": "голограма",
+                    "ru": "голограма"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eaa716bedc2c90aa8100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "horns"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae72de"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "incrustatio",
+                    "ru": "инкрустация",
+                    "es": "incrustatio",
+                    "uk": "інкрустація",
+                    "de": "Inkrustation"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae72e6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "indian ink",
+                    "ru": "тушь",
+                    "es": "tinta china",
+                    "uk": "туш",
+                    "de": "Tusche"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae740e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "ink",
+                    "ru": "чернило",
+                    "es": "tinta",
+                    "uk": "чорнило",
+                    "de": "Tinte",
+                    "zh": "墨水"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae7556"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "intaglio",
+                    "uk": "глибокий офсет",
+                    "ru": "интаглио",
+                    "de": "Intaglio"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5a1d3347edc2c9c21c100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "ipad",
+                    "uk": "ipad"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad70d8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "iron",
+                    "uk": "залізо",
+                    "ru": "железо",
+                    "zh": "鐵"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7170"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "iron plate",
+                    "uk": "залізна пластина",
+                    "ru": "железная пластина",
+                    "zh": "鐵片"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7188"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "ivory",
+                    "uk": "слонова кістка",
+                    "ru": "слоновая кость",
+                    "zh": "象牙"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7198"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "japanese paper",
+                    "uk": "японський папір",
+                    "ru": "японская бумага",
+                    "zh": "和紙"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6fb8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "jute",
+                    "uk": "джутова ряднина",
+                    "ru": "джут"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae73ee"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "lacquer",
+                    "ru": "глазурь",
+                    "es": "laca",
+                    "uk": "глазур",
+                    "de": "Lack"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad70c8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "laid paper",
+                    "uk": "папір верже",
+                    "ru": "бумага верже"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae74ce"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "latex",
+                    "es": "látex",
+                    "uk": "латекс",
+                    "ru": "латекс",
+                    "de": "Latex"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae72ee"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "lavis",
+                    "ru": "лавис",
+                    "es": "lavis",
+                    "uk": "лавіс",
+                    "de": "Lavierung"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae72f6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "leadpoint",
+                    "ru": "свинцовые белила",
+                    "uk": "свинцеві білила",
+                    "de": "Bleistift"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6fc0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "leather",
+                    "ru": "кожа",
+                    "uk": "шкіра",
+                    "zh": "皮革"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6fc8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "lemon",
+                    "ru": "лимон",
+                    "uk": "лимон",
+                    "zh": "檸檬"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "581538d9edc2c96e94100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "light box",
+                    "uk": "лайбокс",
+                    "ru": "лайтбокс"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6fd0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "light bulb",
+                    "ru": "лампочка",
+                    "uk": "лампочка"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6fd8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "limestone",
+                    "uk": "вапно",
+                    "ru": "известняк"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad70e8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "linen",
+                    "uk": "льон",
+                    "ru": "лён"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae72fe"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "linocut",
+                    "ru": "линогравюра",
+                    "es": "linograbado",
+                    "uk": "ліногравюра",
+                    "de": "Linolschnitt"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5ee36aeaedc2c9116c1a2388"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "linocut b&w",
+                    "uk": "чорно-білий лінорит",
+                    "ru": "черно-белая линогравюра"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5ee36b00edc2c9116c1acb9c"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "linocut color",
+                    "uk": "кольоровий лінорит",
+                    "ru": "цветная линогравюра"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7110"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "linoleum",
+                    "uk": "ліноолеум",
+                    "ru": "линолеум"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7306"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "lithography",
+                    "ru": "литография",
+                    "es": "litografía",
+                    "uk": "літографія",
+                    "de": "Lithographie"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae730e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "magna",
+                    "ru": "магна",
+                    "es": "magna",
+                    "uk": "магна",
+                    "de": "Magna"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5d2e2ac9edc2c9af74100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "magnets"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad70c0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "mahogany panel",
+                    "uk": "червоне дерево",
+                    "ru": "красное дерево"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae73e6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "majolica",
+                    "ru": "майолика",
+                    "es": "mayólica",
+                    "uk": "майоліка",
+                    "de": "Majolika"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eb0e25aedc2c9c8f8100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "map pins"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7476"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "marble",
+                    "es": "mármol",
+                    "uk": "мармур",
+                    "ru": "мрамор",
+                    "de": "Marmor"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7316"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "marqueterie",
+                    "ru": "маркетри",
+                    "es": "marquetería",
+                    "uk": "маркетрі",
+                    "de": "Marketerie"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae74e6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "masking tape",
+                    "es": "cinta adhesiva",
+                    "ru": "изолента",
+                    "de": "Malerkrepp",
+                    "uk": "ізоляційна стрічка"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6fe0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "masonite",
+                    "ru": "масонит",
+                    "uk": "масоніт"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae749e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "metal",
+                    "es": "metal",
+                    "uk": "метал",
+                    "ru": "метал",
+                    "de": "Metall"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6fe8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "metal frame",
+                    "ru": "металлическая рамка",
+                    "uk": "металічна рамка"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae731e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "metalpoint",
+                    "ru": "металлическая игла",
+                    "uk": "металева голка",
+                    "de": "Metallstift"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7326"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "mezzotint",
+                    "ru": "меццо-тинто",
+                    "es": "manera negra",
+                    "uk": "меццо-тінто",
+                    "de": "Schabtechnik"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad71a0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "mixed media",
+                    "uk": "змішана основа",
+                    "ru": "смешанная техника"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7446"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "mixed technique",
+                    "es": "técnica mixta",
+                    "uk": "змішана техніка",
+                    "ru": "смешанная техника",
+                    "de": "Gemischte Technik",
+                    "zh": "複合技巧"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "604f1425edc2c9ff5c3c1ee0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "mosaic",
+                    "ar": "صخر",
+                    "bg": "Скала",
+                    "ca": "Roca",
+                    "cs": "Hornina",
+                    "da": "Bjergart",
+                    "de": "Gestein",
+                    "el": "Πέτρωμα",
+                    "es": "Roca",
+                    "fa": "سنگ",
+                    "fi": "Kivi",
+                    "fr": "Roche",
+                    "he": "סלע",
+                    "hu": "Kőzet",
+                    "id": "Batu",
+                    "it": "Roccia",
+                    "ja": "岩石",
+                    "ko": "암석",
+                    "nl": "Gesteente",
+                    "pl": "Skała",
+                    "pt": "Rocha",
+                    "ro": "Rocă",
+                    "ru": "Горная порода",
+                    "sv": "Bergart",
+                    "th": "ห\u0e34น",
+                    "tr": "Kayaç",
+                    "uk": "Гірська порода",
+                    "vi": "Đá",
+                    "zh": "岩石"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae732e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "mosaïque",
+                    "ru": "мозаика",
+                    "es": "mosaico",
+                    "uk": "мозаїка",
+                    "de": "Mosaik",
+                    "zh": "馬賽克鑲嵌"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7456"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "mural",
+                    "es": "mural",
+                    "ru": "мурал",
+                    "de": "Wandbild",
+                    "uk": "мурал"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5bfd8b71edc2c92f80100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "music"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad71c0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "music paper",
+                    "ru": "нотная бумага",
+                    "uk": "нотний папір"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6ff0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "nails",
+                    "ru": "гвозди",
+                    "uk": "цвяхи"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad70a0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "oak",
+                    "uk": "дубова панель",
+                    "ru": "дуб"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7336"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "objet trouve",
+                    "ru": "обже труве (objet trouve)",
+                    "es": "objeto es",
+                    "de": "Objet Trouvé",
+                    "uk": "objet trouve"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eef9c9cedc2c984a4100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "obsidian",
+                    "ar": "سبج",
+                    "bg": "Обсидиан",
+                    "ca": "Obsidiana",
+                    "cs": "Obsidián",
+                    "da": "Obsidian",
+                    "de": "Obsidian",
+                    "el": "Οψιανός",
+                    "es": "Obsidiana",
+                    "fa": "ابسیدین",
+                    "fi": "Obsidiaani",
+                    "fr": "Obsidienne",
+                    "he": "אובסידיאן",
+                    "hu": "Obszidián",
+                    "id": "Obsidian",
+                    "it": "Ossidiana",
+                    "ja": "黒曜石",
+                    "ko": "흑요석",
+                    "nl": "Obsidiaan",
+                    "no": "Obsidian",
+                    "pl": "Obsydian",
+                    "pt": "Obsidiana",
+                    "ro": "Obsidian",
+                    "ru": "Обсидиан",
+                    "sv": "Obsidian",
+                    "th": "ห\u0e34นออบซ\u0e34เด\u0e35ยน",
+                    "tr": "Obsidyen",
+                    "uk": "Обсидіан",
+                    "vi": "Đá vỏ chai",
+                    "zh": "黑曜石"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae733e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "oil",
+                    "ru": "масло",
+                    "es": "óleo",
+                    "uk": "олійні фарби",
+                    "de": "Öl",
+                    "zh": "油彩"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7118"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "oilcloth",
+                    "uk": "клейонка",
+                    "ru": "клеенка"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae74f6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "onyx",
+                    "uk": "онікс",
+                    "ru": "оникс",
+                    "de": "Onyx"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5bedf55eedc2c915a0100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "paint",
+                    "pt": "paint",
+                    "uk": "фарба",
+                    "ru": "краска"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7138"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "painted metal",
+                    "ru": "крашеный метал",
+                    "uk": "фарбований метал"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6ff8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "panel",
+                    "ru": "панель",
+                    "uk": "панель",
+                    "zh": "畫板"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad7000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "paper",
+                    "ru": "бумага",
+                    "uk": "папір",
+                    "zh": "紙質"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5f34c979edc2c907a0463546"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "papier-pelle"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5d23109dedc2c9fb74100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "papyrus",
+                    "uk": "папірус",
+                    "ru": "папирус"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad7008"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "parchment",
+                    "ru": "пергамент",
+                    "uk": "пергамент"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7346"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "pastel",
+                    "ru": "пастель",
+                    "es": "pastel",
+                    "uk": "пастель",
+                    "de": "Pastell"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad7010"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "pebbles",
+                    "ru": "галька",
+                    "uk": "галька"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae734e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "pen",
+                    "ru": "перо",
+                    "es": "pluma",
+                    "uk": "перо",
+                    "de": "Stift",
+                    "zh": "鋼筆"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7356"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "pencil",
+                    "ru": "карандаш",
+                    "es": "lápiz",
+                    "uk": "олівець",
+                    "de": "Bleistift",
+                    "zh": "鉛筆"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad71b8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "pergament",
+                    "uk": "пергамент",
+                    "ru": "пергамент"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae743e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "photogram",
+                    "es": "fotograma",
+                    "uk": "фотограма",
+                    "ru": "фотограмма",
+                    "de": "Photogramm"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7130"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "photographic paper",
+                    "uk": "фотопапір",
+                    "ru": "фотобумага"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae741e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "photography",
+                    "ru": "фотография",
+                    "es": "fotografía",
+                    "uk": "фотографія",
+                    "de": "Photographie"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae7526"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "photogravure",
+                    "uk": "фотогравюра",
+                    "ru": "фотогравюра",
+                    "de": "Photogravur"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae73fe"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "photomontage",
+                    "ru": "фотомонтаж",
+                    "es": "fotomontaje",
+                    "uk": "фотомонтаж",
+                    "de": "Photomontage"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae750e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "photomosaic",
+                    "uk": "фотомозаїка",
+                    "ru": "фотомозаика",
+                    "de": "Photomosaik"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad7018"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "piano",
+                    "ru": "фортепиано",
+                    "uk": "фортепіано",
+                    "zh": "鋼琴"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5813d773edc2c98a94100002"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "pigment",
+                    "uk": "пігмент",
+                    "ru": "пигмент",
+                    "zh": "色粉"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae74c6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "plaster",
+                    "es": "yeso",
+                    "uk": "гіпс",
+                    "ru": "гипс",
+                    "de": "Putz",
+                    "zh": "石膏"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae747e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "plastic",
+                    "es": "plástico",
+                    "uk": "пластик",
+                    "ru": "пластик",
+                    "de": "Plastik"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eaa716bedc2c90aa8100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "plates"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad7020"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "plexiglas",
+                    "ru": "плексиглас",
+                    "uk": "плексиглас"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7028"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "plug socket",
+                    "ru": "розетка",
+                    "uk": "розетка"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7108"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "plywood",
+                    "uk": "фанера",
+                    "ru": "фанера"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "59d17ce5edc2c97e6c100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "polyester",
+                    "pt": "polyester",
+                    "uk": "поліестер",
+                    "ru": "полиэстер"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5d935059edc2c957d4100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "polymer",
+                    "uk": "полімер",
+                    "ru": "полимер"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae753e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "polymer paint",
+                    "ru": "полимерная краска",
+                    "de": "Polymerfarbe",
+                    "uk": "полімерна фарба"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad70f8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "polystyrene",
+                    "uk": "полістирол",
+                    "ru": "полистирол"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad70b0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "poplar",
+                    "ru": "тополь",
+                    "uk": "тополя"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7148"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "porcelain",
+                    "uk": "фарфор",
+                    "ru": "фарфор"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7180"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "porphyry",
+                    "ru": "порфир",
+                    "uk": "порфір"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7158"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "postcard",
+                    "uk": "листівка",
+                    "ru": "открытка"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7406"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "print",
+                    "ru": "печать",
+                    "es": "imprimir",
+                    "uk": "друк",
+                    "de": "Druck"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7030"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "printed brochure",
+                    "ru": "печатная брошюша",
+                    "uk": "друкована брошура"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae744e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "pyroxylin",
+                    "es": "piroxilina",
+                    "ru": "пироксилин",
+                    "de": "Proxylin",
+                    "uk": "піроксилін"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae735e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "ready-made",
+                    "ru": "рэди-мейд",
+                    "es": "confeccionado",
+                    "de": "Ready-Made",
+                    "uk": "ready-made"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7038"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "recorder with cassette",
+                    "ru": "магнитофон с кассетой",
+                    "uk": "магнітофон із касетою"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5deac2f6edc2c91e38100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "resin"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae74be"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "rubber",
+                    "es": "caucho",
+                    "uk": "гума",
+                    "ru": "резина",
+                    "de": "Gummi",
+                    "zh": "橡膠"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad71a8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "sand",
+                    "uk": "пісок",
+                    "ru": "песок",
+                    "zh": "沙"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eef9d28edc2c984a4100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "sandstone"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7366"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "sanguine",
+                    "ru": "сангина",
+                    "es": "sanguine",
+                    "uk": "сангіна",
+                    "de": "Rötel"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7140"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "satin",
+                    "uk": "сатин",
+                    "ru": "сатин"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7416"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "scrapings",
+                    "ru": "скрапинг",
+                    "es": "raspaduras",
+                    "de": "Reste"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae736e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "screenprint",
+                    "ru": "трафаретная печать",
+                    "es": "serigrafía",
+                    "uk": "трафаретний друк",
+                    "de": "Siebdruck"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7376"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "sepia",
+                    "ru": "сепия",
+                    "es": "sepia",
+                    "uk": "сепія",
+                    "de": "Sepia"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eec6a9dedc2c933a8100002"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "shell",
+                    "zh": "貝殼"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7040"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "silk",
+                    "ru": "шелк",
+                    "uk": "шовк"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7426"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "silkscreen",
+                    "ru": "шелкография",
+                    "uk": "шовкографія",
+                    "de": "Siebdruck"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5ef30fd7edc2c9edb0100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "silver",
+                    "zh": "銀"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae74fe"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "silverpoint",
+                    "uk": "срібна голка",
+                    "ru": "серебряная игла",
+                    "de": "Silberstift"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5bfd8b71edc2c92f80100002"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "sound"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7150"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "sponge",
+                    "uk": "губка",
+                    "ru": "спонж",
+                    "zh": "海綿"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae737e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "spray paint",
+                    "ru": "безвоздушное распыление",
+                    "es": "pintura spray",
+                    "uk": "безповітряне розпилення",
+                    "de": "Sprühfarbe"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae751e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "stained glass",
+                    "uk": "вітраж",
+                    "ru": "витражное стекло",
+                    "de": "Buntglas"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae74ae"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "steel",
+                    "es": "acero",
+                    "uk": "сталь",
+                    "ru": "сталь",
+                    "de": "Stahl",
+                    "zh": "鋼"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7386"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "stencil",
+                    "ru": "трафарет",
+                    "es": "plantilla",
+                    "uk": "трафарет",
+                    "de": "Schablone"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5c48c564edc2c923d0100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "sticky-note"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae7576"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "stone",
+                    "ru": "камень",
+                    "de": "Stein",
+                    "uk": "камінь",
+                    "zh": "岩石"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7048"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "string",
+                    "ru": "струна",
+                    "uk": "струна"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eec73f6edc2c933a8100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "stucco"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae738e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "stump",
+                    "ru": "растушевка",
+                    "es": "muñón",
+                    "de": "Stummel"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5a0a63c5edc2c959ec100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "tapestry",
+                    "uk": "гобелен",
+                    "ru": "гобелен",
+                    "zh": "掛毯"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "58224ef2edc2cb69a0100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "tar",
+                    "uk": "дьоготь",
+                    "ru": "деготь",
+                    "zh": "焦油"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57f64f73edc2c96b20a2481c"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "tempera",
+                    "ru": "темпера",
+                    "es": "pintura al temple",
+                    "uk": "темпера",
+                    "de": "Tempera",
+                    "zh": "蛋彩"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7178"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "terracotta",
+                    "uk": "теракота",
+                    "ru": "терракота",
+                    "zh": "赤陶"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5ccc0de5edc2c9364c100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "textile",
+                    "zh": "紡織品"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7050"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "tin",
+                    "ru": "жесть",
+                    "uk": "жерсть",
+                    "zh": "錫"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7058"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "travertine",
+                    "uk": "травертин",
+                    "ru": "травертин",
+                    "zh": "石灰華"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eec6a9dedc2c933a8100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "turquoise",
+                    "zh": "綠松石"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae739e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "tusche",
+                    "ru": "тушь",
+                    "es": "tinta china",
+                    "uk": "туш",
+                    "de": "Tusche"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7060"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "twine",
+                    "ru": "шпагат",
+                    "uk": "шпагат",
+                    "zh": "雙股繩"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae73d6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "varnish",
+                    "ru": "лак",
+                    "es": "barniz",
+                    "uk": "лак",
+                    "de": "Glasur",
+                    "zh": "凡尼斯"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7068"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "vellum",
+                    "ru": "калька",
+                    "uk": "калька",
+                    "zh": "羊皮紙"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5c42c586edc2c92340100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "video"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5af73187edc2c99c70100008"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "vinyl",
+                    "zh": "黑膠"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae73a6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "vitrage",
+                    "ru": "витраж",
+                    "es": "acristalamiento",
+                    "uk": "вітраж",
+                    "de": "Buntglas",
+                    "zh": "彩繪玻璃"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7070"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "wall",
+                    "ru": "стена",
+                    "uk": "стіна",
+                    "zh": "牆壁"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5af7491eedc2c99c70100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "wallpaper",
+                    "zh": "壁紙"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae73ae"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "wash",
+                    "ru": "размывка",
+                    "uk": "відмивка",
+                    "de": "Tönung",
+                    "zh": "刷淡彩"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae73b6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "water miscible oil paint",
+                    "ru": "водорастворимая масляная краска",
+                    "es": "óleo miscible al agua",
+                    "uk": "водорозчинна олійна фарба",
+                    "de": "wasserlösliche Ölfarbe",
+                    "zh": "水溶性油漆"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7436"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "watercolor",
+                    "es": "acuarela",
+                    "uk": "акварель",
+                    "ru": "акварель",
+                    "de": "Wasserfarbe",
+                    "zh": "透明水彩"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae73c6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "wax",
+                    "ru": "воск",
+                    "es": "cera",
+                    "uk": "віск",
+                    "de": "Wachs",
+                    "zh": "蠟"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5ee6081fedc2c978b866639b"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "wax pastel",
+                    "uk": "воскова пастель",
+                    "ru": "восковая пастель",
+                    "zh": "粉蠟筆"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae73ce"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "white",
+                    "ru": "белила",
+                    "es": "color blanco",
+                    "uk": "білила",
+                    "de": "Weiß",
+                    "zh": "白色顏料"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bceedc2cb3880ae74d6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "whitewash",
+                    "es": "cal",
+                    "ru": "известь",
+                    "de": "Kalkmilch",
+                    "uk": "вапно",
+                    "zh": "粉刷"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5c34a8deedc2c92dfc100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "wine",
+                    "zh": "葡萄酒"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7078"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "wire",
+                    "ru": "проволока",
+                    "uk": "дріт",
+                    "zh": "金屬線"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae7496"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "wood",
+                    "es": "madera",
+                    "uk": "дерево",
+                    "ru": "дерево",
+                    "de": "Holz",
+                    "zh": "木材"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "600fcf9aedc2c951c01d0abd"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "wood engraving"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "58ee2391edc2c963cc1dc938"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "woodblock print",
+                    "zh": "雕版印刷"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726bcdedc2cb3880ae73be"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "woodcut",
+                    "ru": "ксилография",
+                    "es": "xilografía",
+                    "uk": "ксилографія",
+                    "de": "Holzschnitt",
+                    "zh": "木刻版畫"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7080"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "wooden chair",
+                    "ru": "деревянный стул",
+                    "uk": "дерев'яний стілець",
+                    "zh": "木椅"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7088"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "wooden sled",
+                    "ru": "деревянные сани",
+                    "uk": "дерев'яні сані",
+                    "zh": "雪橇"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "58153088edc2c96e94100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "wool",
+                    "uk": "вовна",
+                    "ru": "шерсть",
+                    "zh": "羊毛"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4fedc2cb3880ad7090"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "zinc",
+                    "ru": "цинк",
+                    "uk": "цинк",
+                    "zh": "鋅"
+                }
+            },
+            "Status": 0,
+            "Group": 12
+        },
+        "IsHinted": false
+    }
+]

@@ -1,0 +1,4806 @@
+[
+    {
+        "_id": {
+            "_oid": "5d2485daedc2c924d8100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "2nd Intermediate Period",
+                    "uk": "II перехідний період",
+                    "zh": "第二中間時期"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5d231042edc2c9fb74d85fd0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "3rd Intermediate Period",
+                    "uk": "III перехідний період",
+                    "zh": "第三中間時期"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5fdb25c2edc2c994d8e84638"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Abbasid Period"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b50edc2cb3880ad7460"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Abstract Art",
+                    "ru": "Абстракционизм",
+                    "es": "Arte Abstracto",
+                    "uk": "Абстракціонізм",
+                    "de": "Abstrakte Kunst",
+                    "ar": "فن تجريدي",
+                    "bg": "Абстракционизъм",
+                    "ca": "Art abstracte",
+                    "cs": "Abstraktní umění",
+                    "da": "Abstrakt kunst",
+                    "el": "Αφηρημένη τέχνη",
+                    "fa": "هنر انتزاعی",
+                    "fi": "Abstrakti taide",
+                    "fr": "Art abstrait",
+                    "he": "אמנות מופשטת",
+                    "hu": "Absztrakt művészet",
+                    "id": "Seni abstrak",
+                    "it": "Astrattismo",
+                    "ja": "抽象絵画",
+                    "ko": "추상화",
+                    "nl": "Abstracte kunst",
+                    "no": "Abstrakt kunst",
+                    "pl": "Abstrakcjonizm",
+                    "pt": "Arte abstrata",
+                    "ro": "Artă abstractă",
+                    "sv": "Abstrakt konst",
+                    "th": "ศ\u0e34ลปะนามธรรม",
+                    "tr": "Soyut sanat",
+                    "vi": "Trường phái trừu tượng",
+                    "zh": "抽象藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7468"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Abstract Expressionism",
+                    "ru": "Абстрактный экспрессионизм",
+                    "es": "Expresionismo Abstracto",
+                    "uk": "Абстрактний експресіонізм",
+                    "de": "Abstrakter Expressionismus",
+                    "ar": "التعبيرية التجريدية",
+                    "ca": "Expressionisme abstracte",
+                    "cs": "Abstraktní expresionismus",
+                    "da": "Abstrakt ekspressionisme",
+                    "el": "Αφηρημένος Εξπρεσιονισμός",
+                    "fa": "اکسپرسیونیسم انتزاعی",
+                    "fi": "Abstrakti ekspressionismi",
+                    "fr": "Expressionnisme abstrait",
+                    "he": "אקספרסיוניזם מופשט",
+                    "hu": "Absztrakt expresszionizmus",
+                    "id": "Ekspresionisme abstrak",
+                    "it": "Espressionismo astratto",
+                    "ja": "抽象表現主義",
+                    "ko": "추상표현주의",
+                    "nl": "Abstract expressionisme",
+                    "no": "Abstrakt ekspresjonisme",
+                    "pl": "Ekspresjonizm abstrakcyjny",
+                    "pt": "Expressionismo abstrato",
+                    "ro": "Expresionism abstract",
+                    "sv": "Abstrakt expressionism",
+                    "th": "ล\u0e31ทธ\u0e34สำแดงพล\u0e31งอารมณ\u0e4cแนวนามธรรม",
+                    "tr": "Soyut dışavurumculuk",
+                    "zh": "抽象表現主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7470"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Academicism",
+                    "uk": "Академізм",
+                    "ru": "Академизм",
+                    "de": "Akademische Kunst",
+                    "ar": "فن أكاديمي",
+                    "bg": "Академично рисуване",
+                    "ca": "Academicisme",
+                    "cs": "Akademismus",
+                    "da": "Akademisk kunst",
+                    "el": "Ακαδημαϊσμός",
+                    "es": "Academicismo",
+                    "fa": "هنر آکادمیک",
+                    "fi": "Akateeminen taide",
+                    "fr": "Art académique",
+                    "hu": "Akadémizmus",
+                    "it": "Art pompier",
+                    "ja": "アカデミック美術",
+                    "nl": "Academische kunst",
+                    "no": "Akademisk kunst",
+                    "pl": "Akademizm",
+                    "pt": "Academicismo",
+                    "ro": "Academism",
+                    "sv": "Akademisk konst",
+                    "th": "ศ\u0e34ลปะตามหล\u0e31กว\u0e34ชา",
+                    "vi": "Chủ nghĩa học viện",
+                    "zh": "學院藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7478"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Action painting",
+                    "ru": "Живопись действия",
+                    "es": "Pintura de Acción",
+                    "uk": "Живопис дії",
+                    "de": "Action Painting",
+                    "zh": "行動繪畫"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5d23080dedc2c9fb74914892"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Amarna",
+                    "uk": "Амарна",
+                    "zh": "阿瑪納"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7480"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "American Realism",
+                    "ru": "Американский реализм",
+                    "es": "Realismo Americano",
+                    "uk": "Американський реалізм",
+                    "de": "Amerikanischer Realismus",
+                    "zh": "美國寫實主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7488"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Analytical Cubism",
+                    "ru": "Аналитический кубизм",
+                    "es": "Cubismo Analítico",
+                    "uk": "Аналітичний кубізм",
+                    "de": "Analytischer Kubismus"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7490"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Analytical Realism",
+                    "ru": "Аналитический реализм",
+                    "es": "Realismo Analítico",
+                    "uk": "Аналітичний реалізм",
+                    "de": "Analytischer Realismus",
+                    "zh": "分析現實主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5ba2377fedc2c918cc9de565"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Archaic",
+                    "uk": "Архаїка",
+                    "zh": "古風"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7498"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Art Brut",
+                    "ru": "Арт Брют",
+                    "es": "Art Brut",
+                    "uk": "Арт брют",
+                    "de": "Art Brut",
+                    "bg": "Ар Брют",
+                    "ca": "Art Brut",
+                    "cs": "Art brut",
+                    "el": "Τέχνη του περιθωρίου",
+                    "fa": "هنر خام",
+                    "fi": "Art brut",
+                    "fr": "Art brut",
+                    "hu": "Art brut",
+                    "it": "Art Brut",
+                    "ja": "アウトサイダ\u30fc・ア\u30fcト",
+                    "ko": "아웃사이더 아트",
+                    "nl": "Art brut",
+                    "no": "Art brut",
+                    "pl": "Art brut",
+                    "pt": "Arte bruta",
+                    "sv": "Särlingskonst",
+                    "th": "ศ\u0e34ลปะคนนอก",
+                    "tr": "Art brut",
+                    "zh": "非主流藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad74a0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Art Deco",
+                    "ru": "Ар-деко",
+                    "es": "Art Decó",
+                    "uk": "Арт деко",
+                    "de": "Art Deco",
+                    "pl": "Art déco",
+                    "ko": "아르 데코",
+                    "he": "אר דקו",
+                    "fr": "Art déco",
+                    "hu": "Art déco",
+                    "it": "Art déco",
+                    "id": "art deco",
+                    "ja": "ア\u30fcル・デコ",
+                    "vi": "Art Deco",
+                    "el": "Αρ Ντεκό",
+                    "sv": "Art déco",
+                    "ar": "آرت ديكو",
+                    "nl": "art deco",
+                    "pt": "art déco",
+                    "tr": "art deco",
+                    "ro": "Art Déco",
+                    "th": "อล\u0e31งการศ\u0e34ลป\u0e4c",
+                    "ca": "Art déco",
+                    "fi": "Art deco",
+                    "cs": "Art deco",
+                    "fa": "آرت دکو",
+                    "bg": "Ар деко",
+                    "da": "Art deco",
+                    "zh": "裝飾藝術",
+                    "no": "Art deco"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad74a8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Art Informel",
+                    "ru": "Информель",
+                    "es": "Informalismo",
+                    "uk": "Інформель",
+                    "de": "Informel",
+                    "zh": "不定形藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad74b0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Art Nouveau (Modern)",
+                    "ru": "Ар Нуво (Модерн)",
+                    "es": "Art Nouveau (Modern)",
+                    "uk": "Ар нуво",
+                    "de": "Art Nouveau (Modern)",
+                    "ar": "الفن الجديد",
+                    "bg": "Ар нуво",
+                    "ca": "Modernisme",
+                    "cs": "Secese",
+                    "da": "Jugendstil",
+                    "el": "Αρ Νουβό",
+                    "fa": "هنر نو",
+                    "fi": "Jugend",
+                    "fr": "Art nouveau",
+                    "he": "אר נובו",
+                    "hu": "Szecesszió",
+                    "id": "Art Nouveau",
+                    "it": "Art Nouveau",
+                    "ja": "ア\u30fcル・ヌ\u30fcヴォ\u30fc",
+                    "ko": "아르 누보",
+                    "nl": "Jugendstil",
+                    "no": "Jugendstil",
+                    "pl": "Secesja",
+                    "pt": "Art nouveau",
+                    "ro": "Art Nouveau",
+                    "sv": "Jugend",
+                    "th": "นวศ\u0e34ลป\u0e4c",
+                    "tr": "Art Nouveau",
+                    "vi": "Art Nouveau",
+                    "zh": "新藝術運動"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57f38c3dedc2c98fa873e836"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Art Singulier",
+                    "uk": "Сингулярне мистецтво",
+                    "zh": "單數藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad74b8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Automatic Painting",
+                    "ru": "Автоматический рисунок",
+                    "es": "Pintura Automática",
+                    "uk": "Автоматичний малюнок",
+                    "de": "Automatische Malerei",
+                    "zh": "自動性繪畫"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad74c8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Baroque",
+                    "ru": "Барокко",
+                    "es": "Barroco",
+                    "uk": "Бароко",
+                    "de": "Barock",
+                    "zh": "巴洛克",
+                    "pt": "Barroco"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad74d0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Biedermeier",
+                    "uk": "Бідермаєр",
+                    "ru": "Бидермейер",
+                    "de": "Biedermeier",
+                    "zh": "比德邁風格"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad74d8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Byzantine",
+                    "ru": "Византийский стиль",
+                    "es": "Bizantino",
+                    "uk": "Візантійський стиль",
+                    "de": "Byzantinisch",
+                    "zh": "拜占庭"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad74e0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Cartographic Art",
+                    "uk": "Картографічне мистецтво",
+                    "ru": "Картографическое искусство",
+                    "de": "Kartographische Kunst"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad74e8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Celtic",
+                    "ru": "Кельтский стиль",
+                    "es": "Céltico",
+                    "uk": "Кельтський стиль",
+                    "de": "Keltisch"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "6059b87bedc2c9613cbcab5a"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Chernihiv school of icon painting"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eec6247edc2c933a8234422"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Classic (c.200-900)"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5ba237b9edc2c918cca12356"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Classical",
+                    "uk": "Класика",
+                    "zh": "古典"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5f74af74edc2c9ddc85a23e0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Classical Realism"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad74f0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Classicism",
+                    "uk": "Класицизм",
+                    "ru": "Классицизм",
+                    "de": "Klassizismus",
+                    "ar": "كلاسيكية",
+                    "bg": "Класицизъм",
+                    "ca": "Classicisme",
+                    "cs": "Klasicismus",
+                    "da": "Klassicismen",
+                    "el": "Κλασικισμός",
+                    "es": "Clasicismo",
+                    "fa": "کلاسیسیسم",
+                    "fi": "Klassismi",
+                    "fr": "Classicisme",
+                    "he": "קלאסיציזם",
+                    "hu": "Klasszicizmus",
+                    "it": "Classicismo",
+                    "ja": "古典主義",
+                    "ko": "고전주의",
+                    "nl": "Classicisme",
+                    "no": "Klassisismen",
+                    "pl": "Klasycyzm",
+                    "pt": "Classicismo",
+                    "ro": "Clasicism",
+                    "sv": "Klassicism",
+                    "tr": "Klasisizm",
+                    "zh": "古典主義",
+                    "vi": "Cổ điển"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad74f8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Cloisonnism",
+                    "ru": "Клуазонизм",
+                    "es": "Cloisonismo",
+                    "uk": "Клуазонізм",
+                    "de": "Cloisonismus",
+                    "zh": "掐絲琺瑯彩主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7500"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Color Field Painting",
+                    "ru": "Живопись цветового поля",
+                    "es": "Pintura de Campos de Color",
+                    "uk": "Живопис кольоровими плямами",
+                    "de": "Farbfeldmalerei"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7508"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Conceptual Art",
+                    "ru": "Концептуализм",
+                    "es": "Arte Conceptual",
+                    "uk": "Концептуалізм",
+                    "de": "Konzeptuelle Kunst",
+                    "zh": "觀念藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7510"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Concretism",
+                    "uk": "Конкретне мистецтво",
+                    "ru": "Конкретизм",
+                    "de": "Konkretismus"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7518"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Confessional Art",
+                    "es": "Arte Confessional",
+                    "ru": "Исповедальное (конфессиональное) искусство",
+                    "uk": "Конфесійне мистецтво",
+                    "de": "Konfessionelle Kunst"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7520"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Constructivism",
+                    "ru": "Конструктивизм",
+                    "es": "Constructivismo",
+                    "uk": "Конструктивізм",
+                    "de": "Konstruktivismus",
+                    "pl": "Konstruktywizm",
+                    "fr": "constructivisme",
+                    "he": "קונסטרוקטיביזם",
+                    "hu": "konstruktivista művészet",
+                    "it": "Costruttivismo",
+                    "ja": "ロシア構成主義",
+                    "el": "Κονστρουκτιβισμός",
+                    "ar": "بنائية",
+                    "nl": "constructivisme",
+                    "sv": "Konstruktivism",
+                    "pt": "Construtivismo russo",
+                    "tr": "konstrüktivizm",
+                    "th": "ศ\u0e34ลปะเค\u0e49าโครง",
+                    "ro": "constructivism",
+                    "ca": "Constructivisme",
+                    "fi": "Konstruktivismi",
+                    "cs": "Konstruktivismus",
+                    "fa": "ساخت\u200cگرایی",
+                    "da": "Konstruktivisme",
+                    "ko": "구성주의",
+                    "bg": "Конструктивизъм",
+                    "zh": "構成主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "59de1803edc2c9b1e858baa2"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Contemporary",
+                    "uk": "Контемпорпарі",
+                    "zh": "當代藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7528"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Contemporary Realism",
+                    "ru": "Контемпорари Реализм",
+                    "es": "Realismo Contemporáneo",
+                    "uk": "Сучасний реалізм",
+                    "de": "Zeitgenössischer Realismus",
+                    "zh": "當代寫實主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "60507a72edc2c91490f54195"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Coptic art",
+                    "ar": "فن قبطي",
+                    "ca": "Art copte",
+                    "de": "Koptische Kunst",
+                    "es": "Arte copto",
+                    "fa": "هنر قبطی",
+                    "fr": "Art copte",
+                    "hu": "Kopt művészet",
+                    "it": "Arte copta",
+                    "pl": "Sztuka koptyjska",
+                    "pt": "Arte copta",
+                    "ru": "Коптское искусство",
+                    "sv": "Koptisk konst",
+                    "uk": "Коптське мистецтво"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7530"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Costumbrismo",
+                    "ru": "Костумбризм",
+                    "uk": "Костумбризм",
+                    "de": "Kostumbrismus",
+                    "zh": "風俗主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "604f5f17edc2c9ff5c24471c"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Cretan school of icon painting",
+                    "ar": "المدرسة الكريتية",
+                    "ca": "Escola cretenca",
+                    "de": "Kretische Schule",
+                    "el": "Κρητική Σχολή",
+                    "es": "Escuela cretense",
+                    "fi": "Kreetalainen koulukunta",
+                    "fr": "École crétoise",
+                    "it": "Scuola cretese",
+                    "pt": "Escola cretense",
+                    "ru": "Итало-критская школа",
+                    "uk": "Критська школа"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "604f2917edc2c9ff5cc835c2"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Crusader workshop"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7538"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Cubism",
+                    "ru": "Кубизм",
+                    "es": "Cubismo",
+                    "uk": "Кубізм",
+                    "de": "Kubismus",
+                    "ar": "تكعيبية",
+                    "bg": "Кубизъм",
+                    "ca": "Cubisme",
+                    "cs": "Kubismus",
+                    "da": "Kubisme",
+                    "el": "Κυβισμός",
+                    "fa": "کوبیسم",
+                    "fi": "Kubismi",
+                    "fr": "Cubisme",
+                    "he": "קוביזם",
+                    "hu": "Kubizmus",
+                    "id": "Kubisme",
+                    "it": "Cubismo",
+                    "ja": "キュビスム",
+                    "ko": "입체파",
+                    "nl": "Kubisme",
+                    "no": "Kubisme",
+                    "pl": "Kubizm",
+                    "pt": "Cubismo",
+                    "ro": "Cubism",
+                    "sv": "Kubism",
+                    "th": "บาศกน\u0e34ยม",
+                    "tr": "Kübizm",
+                    "vi": "Lập thể",
+                    "zh": "立體派"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7540"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Cubo-Expressionism",
+                    "ru": "Кубоэкспрессионизм",
+                    "es": "Cubo-Expresionismo",
+                    "uk": "Кубо-експресіонізм",
+                    "de": "Kubo-Expressionismus"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7548"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Cubo-Futurism",
+                    "ru": "Кубофутуризм",
+                    "es": "Cubo-Futurismo",
+                    "uk": "Кубо-футуризм",
+                    "de": "Kubo-Futurismus",
+                    "zh": "立體未來主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7550"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Cyber Art",
+                    "uk": "Кібермистецтво",
+                    "ru": "Кибер-арт",
+                    "de": "Cyber Art"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7558"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Dada",
+                    "ru": "Дадаизм",
+                    "es": "Dadaísmo",
+                    "uk": "Дадаїзм",
+                    "de": "Dada",
+                    "zh": "達達主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "580c3d26edc2c92a9c100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Digital Art",
+                    "uk": "Цифрове мистецтво"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7560"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Divisionism",
+                    "uk": "Дівізіонізм",
+                    "ru": "Дивизионизм",
+                    "de": "Divisionismus",
+                    "pl": "Dywizjonizm",
+                    "fa": "تفکیک\u200cگری",
+                    "fr": "Divisionnisme",
+                    "es": "Divisionismo",
+                    "th": "ว\u0e34ภาคน\u0e34ยม",
+                    "it": "Divisionismo",
+                    "pt": "Divisionismo",
+                    "nl": "divisionisme",
+                    "zh": "新印象主義（分光主義）"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5f38fcb2edc2c9e178b9001a"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Documentary photography",
+                    "ar": "تصوير وثائقي",
+                    "ca": "Fotografia documental",
+                    "cs": "Dokumentární fotografie",
+                    "de": "Dokumentarfotografie",
+                    "es": "Fotografía documental",
+                    "fa": "عکاسی مستند",
+                    "fr": "Photographie documentaire",
+                    "it": "Fotografia documentaria",
+                    "ko": "기록사진",
+                    "nl": "Documentaire fotografie",
+                    "pt": "Fotografia documental",
+                    "ru": "Документальная фотография",
+                    "sv": "Dokumentärfotografi",
+                    "uk": "Документальна фотографія",
+                    "zh": "紀實攝影"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5bf26376edc2c90afcec14c4"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Early Byzantine (c. 330–750)",
+                    "uk": "Рання Візантія (c. 330–750)",
+                    "zh": "早期拜占庭風格（約 330 – 750 年）"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7568"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Early Christian",
+                    "ru": "Раннехристианский стиль",
+                    "es": "Arte Paleocristiano",
+                    "uk": "Ранньохристиянський стиль",
+                    "de": "Frühchristlich",
+                    "zh": "早期基督教風格"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5d230728edc2c9fb74898bba"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Early Dynastic",
+                    "uk": "Рання династія",
+                    "zh": "早王朝"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7570"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Early Renaissance",
+                    "ru": "Раннее Возрождение",
+                    "es": "Bajo Renacimiento",
+                    "uk": "Раннє Відродження",
+                    "de": "Frührenaissance",
+                    "zh": "文藝復興早期",
+                    "pt": "Início do Renascimento"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7578"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Environmental (Land) Art",
+                    "ru": "Энвайронмент (Лэнд-арт)",
+                    "uk": "Енвайронмент (Ленд-арт)",
+                    "de": "Umweltkunst",
+                    "ar": "فن الأرض",
+                    "ca": "Land Art",
+                    "cs": "Land art",
+                    "da": "Land art",
+                    "es": "Land Art",
+                    "fa": "هنر زمین",
+                    "fi": "Maataide",
+                    "fr": "Land art",
+                    "he": "אמנות אדמה",
+                    "hu": "Land art",
+                    "it": "Land art",
+                    "ja": "ランド・ア\u30fcト",
+                    "ko": "대지 예술",
+                    "nl": "Land art",
+                    "no": "Stedskunst",
+                    "pl": "Sztuka ziemi",
+                    "pt": "Land Art",
+                    "ro": "Land art",
+                    "sv": "Jordkonst",
+                    "th": "ภ\u0e39ม\u0e34ศ\u0e34ลป\u0e4c",
+                    "tr": "Arazi sanatı",
+                    "zh": "環境藝術",
+                    "bg": "Лендарт"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "59a21e0bedc2c99d70100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Ero guro",
+                    "uk": "Ероґуро"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "597ced5aedc2c93dd4100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Excessivism",
+                    "uk": "Ексесивізм",
+                    "zh": "過度主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7580"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Existential Art",
+                    "ru": "Экзистенциализм",
+                    "es": "Existencialismo",
+                    "uk": "Екзистенціалізм",
+                    "de": "Existentialistische Kunst",
+                    "zh": "存在主義藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7588"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Expressionism",
+                    "ru": "Экспрессионизм",
+                    "es": "Expresionismo",
+                    "uk": "Експресіонізм",
+                    "de": "Expressionismus",
+                    "zh": "表現主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7590"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Fantastic Realism",
+                    "ru": "Фантастический реализм",
+                    "es": "Realismo Fantástico",
+                    "uk": "Фантастичний реалізм",
+                    "de": "Fantastischer Realismus",
+                    "zh": "幻想寫實主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "59ca0d13edc2c92484f5ab2f"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Fantasy Art",
+                    "uk": "Фентезі арт"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "6001a843edc2c96ed86415c6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Fashion photography"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7598"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Fauvism",
+                    "ru": "Фовизм",
+                    "es": "Fovismo",
+                    "uk": "Фовізм",
+                    "de": "Fauvismus",
+                    "ar": "حوشية",
+                    "bg": "Фовизъм",
+                    "ca": "Fauvisme",
+                    "cs": "Fauvismus",
+                    "da": "Fauvisme",
+                    "el": "Φωβισμός",
+                    "fa": "فوویسم",
+                    "fi": "Fauvismi",
+                    "fr": "Fauvisme",
+                    "he": "פוביזם",
+                    "hu": "Fauvizmus",
+                    "id": "Fauvisme",
+                    "it": "Fauves",
+                    "ja": "フォ\u30fcヴィスム",
+                    "ko": "야수파",
+                    "nl": "Fauvisme",
+                    "no": "Fauvisme",
+                    "pl": "Fowizm",
+                    "pt": "Fauvismo",
+                    "ro": "Fauvism",
+                    "sv": "Fauvism",
+                    "th": "คต\u0e34โฟว\u0e34สต\u0e4c",
+                    "tr": "Fovizm",
+                    "vi": "Trường phái dã thú",
+                    "zh": "野獸派"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad75a0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Feminist Art",
+                    "uk": "Арт-фемінізм",
+                    "ru": "Феминистское искусство",
+                    "de": "Feministische Kunst",
+                    "zh": "女性主義藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad75a8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Fiber art",
+                    "ru": "Файбер-арт",
+                    "uk": "Файбер-арт",
+                    "de": "Gewebekunst",
+                    "zh": "纖維藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7938"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Figurative Expressionism",
+                    "ru": "Фигуративный экспрессионизм",
+                    "uk": "Фігуративный експресіонізм",
+                    "de": "Figurativer Experessionismus"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5e6a0fb9edc2cd81806d9a47"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Folk art",
+                    "ar": "فن شعبي",
+                    "de": "Volkskunst",
+                    "es": "Arte folclórico",
+                    "fa": "هنر فولکلور",
+                    "fi": "Kansantaide",
+                    "hu": "Népművészet",
+                    "it": "Arte popolare",
+                    "ja": "フォ\u30fcクア\u30fcト",
+                    "ko": "민속 예술",
+                    "nl": "Volkskunst",
+                    "pl": "Sztuka ludowa",
+                    "ro": "Artă populară",
+                    "sv": "Folkkonst",
+                    "zh": "民間藝術",
+                    "uk": "Фолк арт"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5e60d1beedc2c9e3903b39d1"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Futuretech Art"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad75b8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Futurism",
+                    "ru": "Футуризм",
+                    "es": "Futurismo",
+                    "uk": "Футуризм",
+                    "de": "Futurismus",
+                    "zh": "未來主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "605212c8edc2c996cc21d64d"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Galicia-Volyn school"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5cef8f09edc2c90d442d18e3"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Geometric",
+                    "zh": "幾何"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad75c0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Gongbi",
+                    "ru": "Гунби",
+                    "uk": "Гунбі",
+                    "de": "Gongbi",
+                    "ca": "Gongbi",
+                    "fr": "Gong Bi",
+                    "it": "Gongbi",
+                    "nl": "Gongbi",
+                    "zh": "工筆畫"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad75c8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Gothic",
+                    "ru": "Готика",
+                    "es": "Gótico",
+                    "uk": "Готика",
+                    "de": "Gothisch",
+                    "zh": "哥德式",
+                    "pt": "Gótico"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad75d0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Graffiti Art",
+                    "ru": "Граффити",
+                    "es": "Grafiti",
+                    "uk": "Графіті",
+                    "de": "Graffitikunst",
+                    "ar": "جرافيتي",
+                    "bg": "Графити",
+                    "ca": "Grafit",
+                    "cs": "Graffiti",
+                    "da": "Graffiti",
+                    "el": "Γκράφιτι",
+                    "fa": "دیوارنگاری",
+                    "fi": "Graffiti",
+                    "fr": "Graffiti",
+                    "he": "גרפיטי",
+                    "hu": "Graffiti",
+                    "id": "Grafiti",
+                    "it": "Graffitismo",
+                    "ja": "落書き",
+                    "ko": "낙서",
+                    "nl": "Graffiti",
+                    "no": "Graffiti",
+                    "pl": "Graffiti",
+                    "pt": "Grafito",
+                    "ro": "Graffiti",
+                    "sv": "Graffiti",
+                    "th": "รอยข\u0e39ดข\u0e35ดเข\u0e35ยน",
+                    "tr": "Grafiti",
+                    "vi": "Graffiti",
+                    "zh": "塗鴉"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad75d8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Hard Edge Painting",
+                    "ru": "Живопись жесткими линиями",
+                    "es": "Hard Edge (borde duro)",
+                    "uk": "Живопис жорсткими лініями",
+                    "de": "Hard Edge (\"Harte Kante\")",
+                    "ca": "Hard edge",
+                    "hu": "Hard-edge painting",
+                    "it": "Hard edge painting",
+                    "nl": "Hard edge",
+                    "pl": "Hard-edge painting",
+                    "pt": "Hard-edge",
+                    "sv": "Hard-edge",
+                    "zh": "硬邊繪畫"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5ba237ddedc2c918cca31c8f"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Hellenistic",
+                    "uk": "Еллінізм",
+                    "zh": "希臘化"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad75e0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "High Renaissance",
+                    "ru": "Высокое Возрождение",
+                    "es": "Alto Renacimiento",
+                    "uk": "Високе Відродження",
+                    "de": "Hochrenaissance",
+                    "zh": "文藝復興全盛期"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad75e8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Hyper-Mannerism (Anachronism)",
+                    "ru": "Гиперманьеризм (анахронизм)",
+                    "uk": "Гіперманьєризм (анахронізм)",
+                    "de": "Hypermanierismus (Anachronismus)",
+                    "zh": "文雅繪畫"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad75f0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Hyper-Realism",
+                    "ru": "Гиперреализм",
+                    "uk": "Гиперреалізм",
+                    "de": "Hyperrealismus",
+                    "zh": "超級寫實主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad75f8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Ilkhanid",
+                    "ru": "Хулагуид",
+                    "uk": "Хулагуїд",
+                    "de": "Ilkhanid",
+                    "zh": "伊兒汗時期"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7600"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Impressionism",
+                    "ru": "Импрессионизм",
+                    "es": "Impresionismo",
+                    "uk": "Імпресіонізм",
+                    "de": "Impressionismus",
+                    "zh": "印象派"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7608"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Indian Space painting",
+                    "es": "Pintura Espacial de la India",
+                    "ru": "Искусство индейского пространства",
+                    "uk": "Мистецтво індійського простору",
+                    "de": "Indische Weltraummalerei"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7610"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Ink and wash painting",
+                    "ru": "Гохуа",
+                    "es": "Sumi-e (Suiboku)",
+                    "uk": "Гохуа",
+                    "de": "Sumi-e",
+                    "cs": "Tušové malířství",
+                    "fi": "Sumi-e",
+                    "fr": "Lavis",
+                    "hu": "Tusfestés",
+                    "id": "Lukisan tinta cair",
+                    "it": "Pittura a inchiostro e acqua",
+                    "ja": "水墨画",
+                    "ko": "수묵화",
+                    "nl": "Gewassen inkt",
+                    "pl": "Suiboku-ga",
+                    "pt": "Sumi-ê",
+                    "ro": "Laviu",
+                    "tr": "Lavi",
+                    "vi": "Tranh thủy mặc",
+                    "zh": "水墨畫"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7618"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "International Gothic",
+                    "es": "Gótico Internacional",
+                    "ru": "Интернациональная готика",
+                    "uk": "Інтернаціональна готика",
+                    "de": "Internationale Gothik",
+                    "pt": "Gótico internacional",
+                    "pl": "Gotyk międzynarodowy",
+                    "fr": "gothique international",
+                    "ko": "국제 고딕",
+                    "th": "ศ\u0e34ลปะกอท\u0e34กนานาชาต\u0e34",
+                    "ca": "Pintura gòtica internacional",
+                    "it": "tardo gotico",
+                    "ja": "国際ゴシック",
+                    "fa": "گوتیک بین\u200cالمللی",
+                    "el": "Διεθνής γοτθικός ρυθμός",
+                    "nl": "Internationale gotiek",
+                    "sv": "Internationell gotik",
+                    "bg": "Международна готика",
+                    "zh": "國際哥德式",
+                    "cs": "internacionální gotika"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7620"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Intimism",
+                    "ru": "Интимизм",
+                    "es": "Intimismo",
+                    "uk": "Інтимізм",
+                    "de": "Intimismus",
+                    "zh": "閒情畫派"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7628"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Japonism",
+                    "ru": "Японизм",
+                    "es": "Japonismo",
+                    "uk": "Японізм",
+                    "de": "Japanismus",
+                    "zh": "日本主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7630"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Joseon Dynasty",
+                    "ru": "Чосон",
+                    "uk": "Чосон",
+                    "de": "Joseon-Zeit",
+                    "zh": "朝鮮王朝"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7638"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Junk Art",
+                    "ru": "Джанк-арт",
+                    "uk": "Джанк-арт",
+                    "de": "TrashArt",
+                    "zh": "廢物藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "598eb8e1edc2c929c0100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Kanō school style",
+                    "uk": "Школа Кано",
+                    "zh": "狩野派"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7640"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Kinetic Art",
+                    "es": "Arte Cinético",
+                    "ru": "Кинетическое искусство",
+                    "uk": "Кінетичне мистецтво",
+                    "de": "Kinetische Kunst",
+                    "zh": "機動藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7648"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Kitsch",
+                    "ru": "Китч",
+                    "es": "Kitsch",
+                    "uk": "Кітч",
+                    "de": "Kitsch",
+                    "zh": "媚俗"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "60572ebfedc2c95890a0dda1"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Komnenian style (1081-1185)"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "59a00d40edc2c96f98100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Ký họa"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "60508b0aedc2c914906f4035"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Kyiv school of icon painting"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5fdb061dedc2c994d8f40664"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "L'art pompier",
+                    "es": "Art pompier",
+                    "fr": "Art pompier",
+                    "ja": "ア\u30fcル・ポンピエ",
+                    "pt": "Arte pompier"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5bf26430edc2c90afcf07116"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Late Byzantine/Palaeologan Renaissance (c. 1261–1453)",
+                    "uk": "Пізня Візантія/Палеологівське відродження (c. 1261–1453)",
+                    "zh": "晚期拜占庭風格/\t帕里奧洛加斯王朝風格（約 1261 – 1453 年）"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5d230833edc2c9fb74928db8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Late Period",
+                    "uk": "Пізній період",
+                    "zh": "晚王朝時期"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "605728e6edc2c958907d3d6e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Latin Empire of Constantinople (1204-1261)"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7650"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Lettrism",
+                    "uk": "Леттризм",
+                    "ru": "Леттризм",
+                    "de": "Letterismus",
+                    "zh": "字母派"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7658"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Light and Space",
+                    "uk": "Світло і простір",
+                    "ru": "Свет и Пространство",
+                    "de": "Licht und Raum",
+                    "zh": "光與空間"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7660"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Lowbrow Art",
+                    "ru": "Лоуброу Арт",
+                    "es": "Arte Lowbrow",
+                    "uk": "Лоуброу арт",
+                    "de": "Lowbrow Kunst",
+                    "zh": "低眉藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7668"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Luminism",
+                    "ru": "Люминизм",
+                    "es": "Luminismo",
+                    "uk": "Люмінізм",
+                    "de": "Luminismus",
+                    "zh": "光亮主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7670"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Lyrical Abstraction",
+                    "uk": "Ліричний абстракціонізм",
+                    "ru": "Лирическая абстракция",
+                    "de": "Lyrische Abstraktion"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5bf3f551edc2c91764a5bbd2"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Macedonian Renaissance (867–1056)",
+                    "ar": "عصر النهضة المقدونية",
+                    "bg": "Македонски ренесанс",
+                    "cs": "Makedonská renesance",
+                    "de": "Makedonische Renaissance",
+                    "el": "Μακεδονική Αναγέννηση",
+                    "es": "Renacimiento macedonio",
+                    "fr": "Renaissance macédonienne",
+                    "id": "Renaisans Makedonia",
+                    "it": "Rinascenza macedone",
+                    "ja": "マケドニア朝ルネサンス",
+                    "nl": "Macedonische renaissance",
+                    "pt": "Renascença macedónica",
+                    "ru": "Македонский ренессанс",
+                    "tr": "Makedon Rönesansı",
+                    "uk": "Македонське відродження (867–1056)",
+                    "zh": "馬其頓文藝復興"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "605060d3edc2c98e584b8f69"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Macedonian school of icon painting"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7678"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Magic Realism",
+                    "ru": "Магический Реализм",
+                    "es": "Realismo Mágico",
+                    "uk": "Магічний реалізм",
+                    "de": "Magischer Realismus",
+                    "zh": "魔幻寫實主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7680"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Mail Art",
+                    "uk": "Мейл арт",
+                    "ru": "Мэйл-арт",
+                    "de": "Mail Art (\"Postkunst\")",
+                    "zh": "郵件藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7688"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Mannerism (Late Renaissance)",
+                    "ru": "Маньеризм (Позднее Возрождение)",
+                    "es": "Manierismo (final del Alto Renacimiento)",
+                    "uk": "Маньєризм (Пізнє Відродження)",
+                    "de": "Manierismus (Spätrenaissance)",
+                    "zh": "矯飾主義（文藝復興晚期）"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b51edc2cb3880ad7690"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Maximalism",
+                    "uk": "Максималізм",
+                    "ru": "Максимализм",
+                    "de": "Maximalismus",
+                    "zh": "極繁主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7698"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Mechanistic Cubism",
+                    "ru": "Механистический кубизм",
+                    "es": "Cubismo Mecánico",
+                    "uk": "Механістичний кубізм",
+                    "de": "Mechanistischer Kubismus"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5f6c748fedc2d2b6b03d6ee6"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Medieval Art"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad76a0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Metaphysical art",
+                    "ru": "Метафизическая живопись",
+                    "es": "Pintura Metafísica",
+                    "uk": "Метафізичне мистецтво",
+                    "de": "Metaphysische Kunst",
+                    "zh": "形上藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5bf263b7edc2c90afced84a1"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Middle Byzantine (c. 850–1204)",
+                    "uk": "Середня Візантія (c. 850–1204)",
+                    "zh": "中期拜占庭風格（約 850 – 1204 年）"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5d2307aaedc2c9fb748dfaa1"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Middle Kingdom",
+                    "uk": "Середнє Царство",
+                    "zh": "中王國"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad76a8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Minimalism",
+                    "ru": "Минимализм",
+                    "es": "Minimalismo",
+                    "uk": "Мінімалізм",
+                    "de": "Minimalismus",
+                    "zh": "極簡主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad76b0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Miserablism",
+                    "ru": "Мизераблизм",
+                    "uk": "Мізераблізм",
+                    "de": "Düstere Kunst"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "621baff19e43632dfc190962"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Modernism",
+                    "ar": "حركة حداثية",
+                    "bg": "Модернизъм",
+                    "ca": "Modernitat",
+                    "cs": "Moderna",
+                    "da": "Modernisme",
+                    "el": "Μοντερνισμός",
+                    "es": "Modernismo",
+                    "fa": "نوگرایی",
+                    "fi": "Modernismi",
+                    "fr": "Modernisme",
+                    "he": "מודרניזם",
+                    "hu": "Modernizmus",
+                    "id": "Modernisme",
+                    "it": "Modernismo",
+                    "ja": "モダニズム",
+                    "ko": "모더니즘",
+                    "nl": "Modernisme",
+                    "pt": "Modernismo",
+                    "ro": "Modernism",
+                    "ru": "Модернизм",
+                    "sv": "Modernism",
+                    "th": "นวย\u0e38คน\u0e34ยม",
+                    "tr": "Modernizm",
+                    "uk": "Модернізм",
+                    "vi": "Chủ nghĩa hiện đại",
+                    "zh": "現代主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad76b8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Modernismo",
+                    "uk": "Модернізмо",
+                    "ru": "Модернизмо",
+                    "de": "Modernismo",
+                    "zh": "西班牙現代風格"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7978"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Mosan art",
+                    "ru": "Маасский стиль",
+                    "uk": "Мааський стиль",
+                    "de": "Maasländische Kunst",
+                    "zh": "馬賽克"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "604f3499edc2c9ff5c12f567"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Moscow school of icon painting"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7970"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Mozarabic",
+                    "ru": "Мосарабик",
+                    "uk": "Мосарабік",
+                    "de": "Mozarabisch",
+                    "zh": "莫札拉布藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad76c0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Mughal",
+                    "ru": "Могол",
+                    "uk": "Могол",
+                    "de": "Mogulreich",
+                    "zh": "蒙兀兒時期"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad76c8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Muralism",
+                    "ru": "Мурализм",
+                    "es": "Muralismo",
+                    "uk": "Муралізм",
+                    "de": "Muralismo",
+                    "zh": "墨西哥壁畫運動"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad76d0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Naïve Art (Primitivism)",
+                    "ru": "Наивное искусство (Примитивизм)",
+                    "es": "Arte Naíf (Primitivismo)",
+                    "uk": "Наївне мистецтво (Примітивізм)",
+                    "de": "Naive Kunst (Primitivismus)",
+                    "zh": "素人藝術（原始主義）"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad76d8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Nanga (Bunjinga)",
+                    "ru": "Нанга (бидзинга)",
+                    "uk": "Нанга (бідзінга)",
+                    "de": "Nanga (Bunjinga)",
+                    "zh": "南畫（文人畫）"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad76e0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Nas-Taliq",
+                    "ru": "Насталик",
+                    "uk": "Насталік",
+                    "de": "Nastaliq",
+                    "zh": "波斯體"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7950"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Native Art",
+                    "ru": "Народное искусство",
+                    "uk": "Народное мистецтво",
+                    "de": "Indigene Kunst",
+                    "zh": "原住民藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad76e8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Naturalism",
+                    "ru": "Натурализм",
+                    "es": "Naturalismo",
+                    "uk": "Натуралізм",
+                    "de": "Naturalismus",
+                    "zh": "自然主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad76f0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-baroque",
+                    "ru": "Необарокко",
+                    "es": "Neo Baroque",
+                    "uk": "Нео-бароко",
+                    "de": "Neobarock",
+                    "zh": "巴洛克復興風格"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad76f8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-Byzantine",
+                    "uk": "Нео-візантійський стиль",
+                    "ru": "Неовизантизм",
+                    "de": "Neobyzantinisch"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7700"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neoclassicism",
+                    "ru": "Неоклассицизм",
+                    "es": "Neoclasicismo",
+                    "uk": "Неокласицизм",
+                    "de": "Neoklassizistismus",
+                    "zh": "新古典主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7708"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-Concretism",
+                    "uk": "Неоконкретизм",
+                    "ru": "Неоконкретизм",
+                    "de": "Neokonkretismus",
+                    "zh": "新混泥土運動"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7710"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-Dada",
+                    "ru": "Неодадаизм",
+                    "es": "Neodadaísmo",
+                    "uk": "Неодадаїзм",
+                    "de": "Neodada",
+                    "zh": "新達達主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7718"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-Expressionism",
+                    "ru": "Неоэкспрессионизм",
+                    "es": "Neoexpresionismo",
+                    "uk": "Неоекспресіонізм",
+                    "de": "Neoexpressionismus",
+                    "zh": "新表現主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7720"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-Figurative Art",
+                    "uk": "Неофігуративне мистецтво",
+                    "ru": "Неофигуратив",
+                    "de": "Neofigurative Kunst",
+                    "zh": "新具象藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7728"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-Geo",
+                    "ru": "Нео-Гео",
+                    "es": "Neo Geo",
+                    "uk": "Нео-гео",
+                    "de": "Neo-Geo",
+                    "zh": "新幾何"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5f6c46adedc2c9b6b059578f"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-Impressionism",
+                    "ar": "الانطباعية الجديدة",
+                    "bg": "Неоимпресионизъм",
+                    "ca": "Neoimpressionisme",
+                    "cs": "Neoimpresionismus",
+                    "da": "Neoimpressionisme",
+                    "de": "Neoimpressionismus",
+                    "es": "Neoimpresionismo",
+                    "fa": "نئوامپرسیونیسم",
+                    "fi": "Neoimpressionismi",
+                    "he": "נאו-אימפרסיוניזם",
+                    "id": "Neo-Impresionisme",
+                    "it": "Neoimpressionismo",
+                    "ja": "新印象派",
+                    "ko": "신인상주의",
+                    "nl": "Neo-impressionisme",
+                    "pl": "Neoimpresjonizm",
+                    "pt": "Neoimpressionismo",
+                    "ro": "Neoimpresionism",
+                    "ru": "Неоимпрессионизм",
+                    "sv": "Neoimpressionism",
+                    "th": "ล\u0e31ทธ\u0e34ประท\u0e31บใจใหม\u0e48",
+                    "tr": "Yeni izlenimcilik",
+                    "uk": "Неоімпресіонізм",
+                    "vi": "Tân ấn tượng",
+                    "zh": "新印象派"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7730"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-Minimalism",
+                    "ru": "Неоминимализм",
+                    "es": "Neominimalismo",
+                    "uk": "Неомінімалізм",
+                    "de": "Neominimalismus"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7960"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-Orthodoxism",
+                    "ru": "Нео-ортодоксизм",
+                    "uk": "Нео-ортодоксизм",
+                    "de": "Dialektische Kunst"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7738"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neoplasticism",
+                    "ru": "Неоплаcтицизм",
+                    "es": "Neoplasticismo",
+                    "uk": "Неопластицизм",
+                    "de": "Neoplastizismus",
+                    "zh": "新造形主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7740"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-Pop Art",
+                    "ru": "Нео-Поп",
+                    "es": "Neo-pop",
+                    "uk": "Нео-поп",
+                    "de": "Neo-Pop Art",
+                    "zh": "新普普藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7748"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-Rococo",
+                    "uk": "Неорококо",
+                    "ru": "Неорококо",
+                    "de": "Neo-Rokkoko",
+                    "zh": "洛可可復興風格"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7750"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-Romanticism",
+                    "ru": "Неоромантизм",
+                    "es": "Neoromanticismo",
+                    "uk": "Неоромантизм",
+                    "de": "Neoromantik",
+                    "zh": "新浪漫主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5805063fedc2c924fcf5e2d2"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Neo-Suprematism",
+                    "uk": "Нео-супрематизм"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7968"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "New Casualism",
+                    "ru": "Новый кэжуализм",
+                    "uk": "Новий кежуалізм",
+                    "de": "Neuer Kausalismus"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7758"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "New European Painting",
+                    "es": "Nueva Pintura Europea",
+                    "ru": "Новая европейская живопись",
+                    "uk": "Новий європейський живопис",
+                    "de": "Neue Europäische Kunst"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "603cf4e6edc2c97120100010"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "New Ink Painting",
+                    "fr": "new ink painting"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5d2307d8edc2c9fb748f767f"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "New Kingdom",
+                    "uk": "Нове Царство",
+                    "zh": "新王國"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5f106421edc2c91c80100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "New media art",
+                    "ru": "New media art",
+                    "ar": "فن الوسائط الجديد",
+                    "bg": "Медийни изкуства",
+                    "cs": "Nová média",
+                    "de": "Medienkunst",
+                    "es": "Arte de los nuevos medios",
+                    "fi": "Mediataide",
+                    "he": "אמנות מדיה חדשה",
+                    "hu": "Médiaművészet",
+                    "ja": "メディアア\u30fcト",
+                    "ko": "미디어 아트",
+                    "nl": "Mediakunst",
+                    "pl": "Sztuka nowych mediów",
+                    "tr": "Yeni medya sanatı",
+                    "uk": "Медіа-мистецтво"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5c74f876edc2c9097891b299"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "New Medievialism",
+                    "uk": "Нова медієвістика"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7760"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "New Realism",
+                    "ru": "Новый Реализм",
+                    "es": "Nuevo Realismo",
+                    "uk": "Новий реалізм",
+                    "de": "Neuer Realismus"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7768"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Nihonga",
+                    "ru": "Нихонга",
+                    "uk": "Ніхонга",
+                    "de": "Nihonga",
+                    "zh": "日本畫"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7770"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Northern Renaissance",
+                    "ru": "Северное Возрождение",
+                    "es": "Renacimiento del Norte",
+                    "uk": "Північне Відродження",
+                    "de": "Nördliche Renaissance",
+                    "ar": "النهضة الشمالية",
+                    "bg": "Северен ренесанс",
+                    "cs": "Severská renesance",
+                    "el": "Αναγέννηση στη Βόρεια Ευρώπη",
+                    "fr": "Renaissance nordique",
+                    "he": "הרנסאנס הצפוני",
+                    "ja": "北方ルネサンス",
+                    "nl": "Noordelijke renaissance",
+                    "pt": "Renascimento nórdico",
+                    "th": "สม\u0e31ยฟ\u0e37\u0e49นฟ\u0e39ศ\u0e34ลปว\u0e34ทยาตอนเหน\u0e37อ",
+                    "vi": "Phục Hưng phương Bắc",
+                    "zh": "北方文藝復興",
+                    "da": "Nederlandsk renæssance",
+                    "sv": "Christian IV-stil"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7778"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Nouveau Réalisme",
+                    "ru": "Реализм Нуво",
+                    "es": "Nuevo Realismo",
+                    "uk": "Реалізм Нуво",
+                    "de": "Nouveau Réalisme",
+                    "zh": "新寫實主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "605082efedc2c91490356037"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Novgorod school of icon painting",
+                    "es": "Escuela de Nóvgorod",
+                    "fr": "École de Novgorod",
+                    "pt": "Escola de Novgorod",
+                    "sv": "Novgorodskolan"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5d23075fedc2c9fb748b60b0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Old Kingdom",
+                    "uk": "Давнє Царство"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7780"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Op Art",
+                    "ru": "Оп-Арт",
+                    "es": "Op Art",
+                    "uk": "Оп-арт",
+                    "de": "Op art",
+                    "zh": "歐普藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7788"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Orientalism",
+                    "ru": "Ориентализм",
+                    "es": "Orientalismo",
+                    "uk": "Орієнталізм",
+                    "de": "Orientalismus",
+                    "zh": "東方主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7790"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Orphism",
+                    "ru": "Орфизм",
+                    "es": "Orfismo",
+                    "uk": "Орфізм",
+                    "de": "Orphismus",
+                    "zh": "奧費主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7798"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Ottoman Period",
+                    "ru": "Оттоман",
+                    "uk": "Оттоман",
+                    "de": "Ottomanische Zeit",
+                    "zh": "鄂圖曼帝國時期"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad77a0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Outsider art",
+                    "ru": "Аутсайдер Арт",
+                    "es": "Arte Marginal",
+                    "uk": "Аутсайдер арт",
+                    "de": "Art brut (\"rohe Kunst\")",
+                    "zh": "非主流藝術",
+                    "pt": "Arte Outsider"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad77a8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "P&D (Pattern and Decoration)",
+                    "uk": "Нова декоративність",
+                    "ru": "Суперплоскость",
+                    "de": "P&D (Pattern and Decoration, \"Muster und Dekoration\")",
+                    "zh": "圖案繪畫"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad77b0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Perceptism",
+                    "ru": "Перцептизм",
+                    "uk": "Перцептизм",
+                    "de": "Perzeptismus"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "598d54bfedc2c955f8fa81b3"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Performance Art",
+                    "ar": "فن الأداء",
+                    "ca": "Actuació artística",
+                    "da": "Performancekunst",
+                    "de": "Performance",
+                    "es": "Performance",
+                    "fa": "هنر اجرا",
+                    "fi": "Performanssi",
+                    "fr": "Performance",
+                    "he": "מיצג",
+                    "hu": "Performansz",
+                    "it": "Performance art",
+                    "ja": "パフォ\u30fcマンスア\u30fcト",
+                    "ko": "행위 예술",
+                    "nl": "Performance",
+                    "no": "Performance",
+                    "pl": "Performance",
+                    "pt": "Performance",
+                    "ru": "Перформанс",
+                    "sv": "Performance",
+                    "tr": "Performans sanatı",
+                    "uk": "Перформанс",
+                    "vi": "Nghệ thuật trình diễn",
+                    "zh": "表演藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad77b8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Photorealism",
+                    "ru": "Фотореализм",
+                    "es": "Fotorrealismo",
+                    "uk": "Фотореалістичне мистецтво",
+                    "de": "Photorealismus",
+                    "zh": "照相寫實主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad77c0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Pictorialism",
+                    "ru": "Пикторализм",
+                    "uk": "Пікторалізм",
+                    "de": "Pictorialismus",
+                    "zh": "畫意攝影主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad77c8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Pointillism",
+                    "ru": "Пуантализм",
+                    "es": "Puntillismo",
+                    "uk": "Пуантилізм",
+                    "de": "Pointilismus",
+                    "zh": "點描畫派"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad77d0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Pop Art",
+                    "ru": "Поп-Арт",
+                    "es": "Arte Pop",
+                    "uk": "Поп-арт",
+                    "de": "Pop Art",
+                    "zh": "普普藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eec6260edc2c933a824061f"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Post-classic (c.900-1580)",
+                    "zh": "後古典期（約 990 – 1580 年）"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5f77081bedc2c94890e201b7"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Postcolonial art"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad77d8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Poster Art Realism",
+                    "uk": "Постер арт реалізм",
+                    "ru": "Постер-арт реализм",
+                    "de": "Posterkunst Realismus",
+                    "zh": "寫實海報藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad77e0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Post-Impressionism",
+                    "ru": "Постимпрессионизм",
+                    "es": "Posimpresionismo",
+                    "uk": "Постімпресіонізм",
+                    "de": "Post-Impressionismus",
+                    "zh": "後印象派"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad77e8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Post-Minimalism",
+                    "ru": "Постминимализм",
+                    "uk": "Постмінімалізм",
+                    "de": "Post-Minimalismus",
+                    "zh": "後極簡主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad77f0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Post-Painterly Abstraction",
+                    "uk": "Постживописна абстракція",
+                    "ru": "Постживописная абстракция",
+                    "de": "Nachmalerische Abstraktion",
+                    "zh": "色面繪畫"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad77f8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Precisionism",
+                    "ru": "Прецизионизм",
+                    "es": "Precisionismo",
+                    "uk": "Прецизіонізм",
+                    "de": "Präzisionismus",
+                    "zh": "精確主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eec6230edc2c933a8229aa1"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Pre-classic (c.1200 BC -200 AD)"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5d230705edc2c9fb74889597"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Predynastic",
+                    "uk": "Додинастичний стиль"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7800"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Pre-Romanesque",
+                    "ru": "Пре-Романский стиль",
+                    "es": "Pre-Románico",
+                    "uk": "Пре-Романський стиль",
+                    "de": "Vorromanik"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7810"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Proto Renaissance",
+                    "ru": "Проторенессанс",
+                    "es": "Proto Renacimiento",
+                    "uk": "Проторенесанс",
+                    "de": "Protorenaissance",
+                    "zh": "文藝復興開端"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "605473b8edc2c92fcc614285"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Pskov school of icon painting"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5d230852edc2c9fb7493a399"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Ptolemaic",
+                    "uk": "Стиль Птолемеїв",
+                    "zh": "托勒密王朝"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7818"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Purism",
+                    "ru": "Пуризм",
+                    "es": "Purismo",
+                    "uk": "Пуризм",
+                    "de": "Pusimus",
+                    "zh": "純粹主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5f7afbc6edc2c936981e11d3"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Queer art",
+                    "ru": "Квир-искусство"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7820"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Rayonism",
+                    "ru": "Лучизм",
+                    "es": "Rayonismo",
+                    "uk": "Районізм",
+                    "de": "Rayonismus",
+                    "zh": "射光主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7828"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Realism",
+                    "ru": "Реализм",
+                    "es": "Realismo",
+                    "uk": "Реалізм",
+                    "de": "Realismus",
+                    "zh": "現實主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7830"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Regionalism",
+                    "ru": "Риджионализм",
+                    "es": "Regionalismo",
+                    "uk": "Регіоналізм",
+                    "de": "Regionalismus",
+                    "zh": "地方主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7838"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Renaissance",
+                    "ru": "Возрождение",
+                    "es": "Renaissance",
+                    "uk": "Відродження",
+                    "de": "Renaissance",
+                    "zh": "文藝復興"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7840"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Rococo",
+                    "ru": "Рококо",
+                    "es": "Rococó",
+                    "uk": "Рококо",
+                    "de": "Rokkoko",
+                    "zh": "洛可可",
+                    "ar": "روكوكو",
+                    "bg": "Рококо",
+                    "ca": "Rococó",
+                    "cs": "Rokoko",
+                    "da": "Rokoko",
+                    "el": "Ροκοκό",
+                    "fa": "روکوکو",
+                    "fi": "Rokokoo",
+                    "fr": "Rococo",
+                    "he": "רוקוקו",
+                    "hu": "Rokokó",
+                    "id": "Rokoko",
+                    "it": "Rococò",
+                    "ja": "ロココ",
+                    "ko": "로코코",
+                    "nl": "Rococo",
+                    "no": "Rokokko",
+                    "pl": "Rokoko",
+                    "pt": "Rococó",
+                    "ro": "Rococo",
+                    "sv": "Rokoko",
+                    "th": "โรโกโก",
+                    "tr": "Rokoko",
+                    "vi": "Rococo"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7848"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Romanesque",
+                    "ru": "Романский стиль",
+                    "es": "Románico",
+                    "uk": "Романський стиль",
+                    "de": "Romanisch",
+                    "zh": "羅馬式"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7850"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Romanticism",
+                    "ru": "Романтизм",
+                    "es": "Romanticismo",
+                    "uk": "Романтизм",
+                    "de": "Romantik",
+                    "zh": "浪漫主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7858"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Safavid Period",
+                    "ru": "Сафавид",
+                    "uk": "Сафавід",
+                    "de": "Safavid-Zeit",
+                    "zh": "薩非時期"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "58e32b00edc2c95614229aaa"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Severe Style",
+                    "ru": "Суровый стиль",
+                    "uk": "Суворий стиль",
+                    "zh": "雅正風格"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7860"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Shin-hanga",
+                    "uk": "Шин ханга",
+                    "ru": "Син ханга",
+                    "de": "Shin-hanga",
+                    "zh": "新版畫"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5d380badedc2c95754100001"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Site-specific art",
+                    "ca": "Site-specific",
+                    "cs": "Místně specifické umění",
+                    "de": "Installation",
+                    "es": "In situ",
+                    "fa": "هنر مکان-ویژه",
+                    "fi": "Paikkasidonnainen taide",
+                    "fr": "In situ",
+                    "it": "Site-specific",
+                    "ja": "サイトスペシフィック・ア\u30fcト",
+                    "ko": "장소 특정적 미술",
+                    "pl": "Sztuka site-specific",
+                    "pt": "Arte in situ",
+                    "sv": "Platsspecifik konst",
+                    "th": "ศ\u0e34ลปะเฉพาะท\u0e35\u0e48",
+                    "zh": "場域特定藝術",
+                    "uk": "Сайт-специфічне мистецтво"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7868"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Sky Art",
+                    "ru": "Скай-арт",
+                    "uk": "Скай-арт",
+                    "de": "Sky art",
+                    "zh": "天空藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7870"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Social Realism",
+                    "ru": "Социальный Реализм",
+                    "es": "Realismo Social",
+                    "uk": "Соціальний реалізм",
+                    "de": "Sozialer Realismus",
+                    "zh": "社會寫實主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7878"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Socialist Realism",
+                    "ru": "Социалистический Реализм",
+                    "es": "Realismo Socialista",
+                    "uk": "Соціалістичний реалізм",
+                    "de": "Sozialistischer Realismus",
+                    "pl": "Socrealizm",
+                    "fr": "Réalisme socialiste soviétique",
+                    "he": "ריאליזם סוציאליסטי",
+                    "hu": "Szocialista realizmus",
+                    "it": "Realismo socialista",
+                    "ja": "社会主義リアリズム",
+                    "ar": "واقعية اشتراكية",
+                    "sv": "Socialistisk realism",
+                    "nl": "Socialistisch realisme",
+                    "pt": "Realismo socialista",
+                    "tr": "Sosyalist gerçekçilik",
+                    "ro": "Realism socialist",
+                    "ca": "Realisme socialista",
+                    "fi": "Sosialistinen realismi",
+                    "cs": "socialistický realismus",
+                    "fa": "واقع\u200cگرایی سوسیالیستی",
+                    "bg": "Социалистически реализъм",
+                    "zh": "社會黨寫實主義",
+                    "id": "Realisme sosialis",
+                    "vi": "Hiện thực xã hội chủ nghĩa",
+                    "ko": "사회주의적 사실주의",
+                    "el": "Σοσιαλιστικός ρεαλισμός",
+                    "no": "Sosialistisk realisme"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7880"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Sōsaku hanga",
+                    "uk": "Сосаку ханга",
+                    "ru": "Сосаку ханга",
+                    "de": "Sōsaku hanga",
+                    "zh": "創作版畫"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5a434e63edc2c968204ef1c3"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Sots Art",
+                    "de": "Soz Art",
+                    "fr": "Sots Art",
+                    "it": "Sots-art",
+                    "nl": "Sots Art",
+                    "ru": "Соц-арт",
+                    "uk": "Соц-арт",
+                    "zh": "蘇聯社會黨寫實主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7888"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Spatialism",
+                    "ru": "Спациализм",
+                    "es": "Espacialismo",
+                    "uk": "Спаціалізм",
+                    "de": "Raumkunst",
+                    "zh": "空間主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7890"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Spectralism",
+                    "es": "Espectralismo",
+                    "ru": "Спектрализм",
+                    "uk": "Спектралізм",
+                    "de": "Spektralismus"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b52edc2cb3880ad7898"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Street art",
+                    "ru": "Стрит-арт",
+                    "es": "Arte Urbano",
+                    "uk": "Стріт-арт",
+                    "de": "Streetart",
+                    "zh": "街頭藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7940"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Street Photography",
+                    "ru": "Уличная фотография",
+                    "uk": "Вулична фотографія",
+                    "de": "Straßenphotographie"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "6089320fedc2c98a2cb0493e"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Stroganov school of icon painting",
+                    "es": "Escuela Stróganov",
+                    "fr": "École Stroganoff",
+                    "hu": "Sztroganov-iskola",
+                    "ru": "Строгановская школа иконописи",
+                    "uk": "Строгановська школа іконопису"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad78a0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Stuckism",
+                    "ru": "Штукизм",
+                    "es": "Stuckismo",
+                    "uk": "Штукізм",
+                    "de": "Stuckismus",
+                    "zh": "反概念主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "598eb8e1edc2c929c0100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Sumi-e (Suiboku-ga)",
+                    "uk": "Сумі-е (субоку-ґа)",
+                    "zh": "墨繪（水墨畫）"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7958"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Superflat",
+                    "uk": "Суперплощина (Superflat)",
+                    "de": "Superflat"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad78a8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Suprematism",
+                    "ru": "Супрематизм",
+                    "es": "Suprematismo",
+                    "uk": "Супрематизм",
+                    "de": "Suprematismus",
+                    "zh": "絕對主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad78b0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Surrealism",
+                    "ru": "Сюрреализм",
+                    "es": "Surrealismo",
+                    "uk": "Сюрреалізм",
+                    "de": "Surrealismus",
+                    "zh": "超現實主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "58e32be6edc2c9561428542d"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Symbiotic Art",
+                    "uk": "Симбіотичне мистецтво"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad78b8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Symbolism",
+                    "ru": "Символизм",
+                    "es": "Simbolismo",
+                    "uk": "Символізм",
+                    "de": "Symbolismus",
+                    "zh": "象徵主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad78c0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Synchromism",
+                    "ru": "Синхромизм",
+                    "es": "Sincromismo",
+                    "uk": "Синхронізм",
+                    "de": "Synchronismus",
+                    "zh": "同步主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad78c8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Synthetic Cubism",
+                    "ru": "Синтетический Кубизм",
+                    "es": "Cubismo Sintético",
+                    "uk": "Синтетичний кубізм",
+                    "de": "Synthetischer Kubismus"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad78d0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Synthetism",
+                    "ru": "Синтетизм",
+                    "es": "Sintetismo",
+                    "uk": "Синтетизм",
+                    "de": "Synthetismus",
+                    "zh": "綜合主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad78d8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Tachisme",
+                    "ru": "Ташизм",
+                    "es": "Tachismo",
+                    "uk": "Ташизм",
+                    "de": "Tachismus",
+                    "zh": "斑點派"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad78e0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Tenebrism",
+                    "ru": "Тенебризм",
+                    "es": "Tenebrismo",
+                    "uk": "Тенебризм",
+                    "de": "Tenebrismus",
+                    "zh": "暗色主義",
+                    "ar": "قتامية",
+                    "ca": "Tenebrisme",
+                    "cs": "Tenebrismus",
+                    "el": "Τενεμπρισμός",
+                    "fr": "Ténébrisme",
+                    "he": "טנבריזם",
+                    "id": "Tenebrisme",
+                    "it": "Tenebrismo",
+                    "ja": "テネブリズム",
+                    "pl": "Tenebryzm",
+                    "pt": "Tenebrismo",
+                    "sv": "Tenebroso"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad78e8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Timurid Period",
+                    "ru": "Тимурид",
+                    "uk": "Тимурід",
+                    "de": "Timurid-Zeit",
+                    "zh": "帖木兒時期"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad78f0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Tonalism",
+                    "ru": "Тонализм",
+                    "es": "Tonalismo",
+                    "uk": "Тоналізм",
+                    "de": "Tonalismus",
+                    "zh": "風景畫派"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad78f8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Toyism",
+                    "ru": "Тойизм",
+                    "es": "Toyismo",
+                    "uk": "Тойізм",
+                    "de": "Toyisme"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7900"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Transautomatism",
+                    "ru": "Трансавтоматизм",
+                    "es": "Transautomatism",
+                    "uk": "Трансавтоматизм",
+                    "de": "Transautomatismus"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7908"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Transavantgarde",
+                    "ru": "Трансавангард",
+                    "es": "Transavantgarde",
+                    "uk": "Трансавангард",
+                    "de": "Transavantgarde",
+                    "zh": "超前衛"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7910"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Tubism",
+                    "ru": "Тубизм",
+                    "es": "Tubism",
+                    "uk": "Тубізм",
+                    "de": "Tubismus"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7918"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Ukiyo-e",
+                    "ru": "Укиё-э",
+                    "es": "Ukiyo-e",
+                    "uk": "Укійо-е",
+                    "de": "Ukiyo-e",
+                    "zh": "浮世繪"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7920"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Verism",
+                    "ru": "Веризм",
+                    "es": "Verismo",
+                    "uk": "Веризм",
+                    "de": "Verismo",
+                    "zh": "唯真寫實主義"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5cd01f3aedc2c93b9c36e420"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Viking art",
+                    "ca": "Art víking",
+                    "da": "Kunst i vikingetiden",
+                    "es": "Arte vikingo",
+                    "fr": "Art viking",
+                    "hu": "Viking művészet",
+                    "it": "Arte vichinga",
+                    "no": "Norrøn kunst",
+                    "uk": "Північне мистецтво",
+                    "zh": "維京藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "6051d432edc2c91490f50440"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Vladimir school of icon painting"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "6054d295edc2c93578d58783"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Vologda school of icon painting"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7928"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Yamato-e",
+                    "ru": "Ямато-э",
+                    "uk": "Ямато-е",
+                    "de": "Yamato-e",
+                    "zh": "大和繪"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "6054981bedc2c9357841aeb1"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Yaroslavl school of icon painting"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5e295413edc2c9bbc4ddade5"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Yoruba",
+                    "uk": "Йоруба",
+                    "zh": "約魯巴藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b53edc2cb3880ad7930"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "Zen",
+                    "ru": "Дзен",
+                    "uk": "Дзен",
+                    "de": "Zen",
+                    "zh": "禪畫"
+                }
+            },
+            "Status": 0,
+            "Group": 2
+        },
+        "IsHinted": false
+    }
+]

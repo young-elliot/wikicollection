@@ -1,0 +1,1656 @@
+[
+    {
+        "_id": {
+            "_oid": "5804eadaedc2ce45b4e01a76"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "abstract",
+                    "ru": "абстракция",
+                    "es": "pintura abstracta",
+                    "uk": "абстракція",
+                    "de": "Abstrakt",
+                    "fr": "abstrait",
+                    "zh": "抽象藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4dedc2cb3880ad6de0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "advertisement",
+                    "ru": "реклама",
+                    "es": "comercial",
+                    "uk": "реклама",
+                    "de": "Werbung",
+                    "fr": "publicité",
+                    "zh": "廣告"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4dedc2cb3880ad6de8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "allegorical painting",
+                    "ru": "аллегория",
+                    "es": "pintura alegórica",
+                    "uk": "алегорія",
+                    "de": "Allegorische Malerei",
+                    "pl": "Malarstwo alegoryczne",
+                    "fr": "peinture allégorique"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4dedc2cb3880ad6df0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "animal painting",
+                    "ru": "анимализм",
+                    "es": "pintura de animales",
+                    "uk": "анімалізм",
+                    "de": "Tiergemälde",
+                    "fr": "peinture animalière",
+                    "da": "dyremaleri",
+                    "ca": "pintura d'animals",
+                    "el": "ζωγραφική ζώων"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "58f749a7edc2c99a1cdfae7b"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "animation",
+                    "uk": "анімація",
+                    "zh": "動畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4dedc2cb3880ad6df8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "architecture",
+                    "ru": "архитектура",
+                    "uk": "архітектура",
+                    "de": "Architektur",
+                    "fr": "architecture",
+                    "zh": "建築"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5837596aedc2c9c120100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "artist's book",
+                    "ca": "Llibre d'artista",
+                    "da": "Artists' books",
+                    "de": "Künstlerbuch",
+                    "es": "Libro-arte",
+                    "fi": "Taiteilijakirja",
+                    "fr": "Livre d'artiste",
+                    "it": "Libro d'arte",
+                    "nl": "Kunstenaarsboek",
+                    "pt": "Livro de artista",
+                    "ru": "Книга художника",
+                    "sv": "Konst i bokform",
+                    "uk": "Книга художника",
+                    "pl": "Książka artystyczna"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5fa24b5eedc2c99ad8100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "augmented reality",
+                    "ar": "واقع معزز",
+                    "bg": "Обогатена реалност",
+                    "ca": "Realitat augmentada",
+                    "cs": "Rozšířená realita",
+                    "da": "Augmented reality",
+                    "de": "Erweiterte Realität",
+                    "el": "Επαυξημένη πραγματικότητα",
+                    "es": "Realidad aumentada",
+                    "fa": "واقعیت افزوده",
+                    "fi": "Lisätty todellisuus",
+                    "fr": "Réalité augmentée",
+                    "he": "מציאות רבודה",
+                    "hu": "Kiterjesztett valóság",
+                    "id": "Realitas tertambah",
+                    "it": "Realtà aumentata",
+                    "ja": "拡張現実",
+                    "ko": "증강현실",
+                    "nl": "Aangevulde realiteit",
+                    "pl": "Rzeczywistość rozszerzona",
+                    "pt": "Realidade aumentada",
+                    "ro": "Realitate augmentată",
+                    "ru": "Дополненная реальность",
+                    "sv": "Förstärkt verklighet",
+                    "th": "ความเป\u0e47นจร\u0e34งเสร\u0e34ม",
+                    "tr": "Artırılmış gerçeklik",
+                    "uk": "Доповнена реальність",
+                    "vi": "Thực tế tăng cường",
+                    "zh": "擴增實境"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4dedc2cb3880ad6e00"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "battle painting",
+                    "ru": "батальная живопись",
+                    "es": "pintura de batallas",
+                    "uk": "батальний живопис",
+                    "de": "Schlachtengemälde",
+                    "fr": "peinture de bataille",
+                    "sv": "Bataljmålning",
+                    "ja": "戦争画",
+                    "el": "πολεμικές σκηνές",
+                    "pl": "malarstwo batalistyczne",
+                    "it": "dipinti di battaglie"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4dedc2cb3880ad6e08"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "bijinga",
+                    "ru": "бидзинга",
+                    "uk": "бідзінга",
+                    "de": "Bijinga",
+                    "zh": "美人畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e10"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "bird-and-flower painting",
+                    "ru": "катё-э",
+                    "es": "pintura de aves y flores",
+                    "uk": "катьо-е",
+                    "de": "Vogel-und-Mensch-Gemälde",
+                    "ja": "花鳥画",
+                    "fr": "kachō-ga",
+                    "zh": "花鳥畫",
+                    "cs": "Květiny a ptáci",
+                    "fi": "Kukka- ja lintumaalaukset",
+                    "no": "Fugl-og-blomstermaleri",
+                    "nl": "Vogel- en bloemschildering"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e18"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "calligraphy",
+                    "ru": "каллиграфия",
+                    "uk": "каліграфія",
+                    "de": "Kalligraphie",
+                    "fr": "calligraphie",
+                    "zh": "書法"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e20"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "capriccio",
+                    "ru": "каприччо",
+                    "es": "capricho",
+                    "uk": "капріччо",
+                    "de": "Capriccio",
+                    "fr": "capriccio",
+                    "it": "capriccio",
+                    "nl": "Capriccio",
+                    "zh": "幻想畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e28"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "caricature",
+                    "ru": "карикатура",
+                    "es": "caricatura",
+                    "uk": "карикатура",
+                    "de": "Karrikatur",
+                    "fr": "caricature",
+                    "zh": "諷刺畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e30"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "cityscape",
+                    "ru": "городской пейзаж",
+                    "es": "paisaje urbano",
+                    "uk": "міський пейзаж",
+                    "de": "Stadtbild",
+                    "fr": "paysage urbain",
+                    "da": "bylandskabsbillede",
+                    "sv": "Stadsbild",
+                    "nl": "stadsgezicht",
+                    "it": "paesaggio rubano",
+                    "ja": "都市風景画",
+                    "zh": "都市風景畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e38"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "cloudscape",
+                    "ru": "небесный пейзаж",
+                    "es": "paisaje nube",
+                    "uk": "небесний пейзаж",
+                    "de": "Wolkenbild"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e40"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "design",
+                    "ru": "дизайн",
+                    "es": "diseño",
+                    "uk": "дизайн",
+                    "de": "Design",
+                    "fr": "design",
+                    "zh": "設計圖"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5f3236a2edc2c9c91085833b"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "digital"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e48"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "figurative",
+                    "ru": "фигуративная живопись",
+                    "es": "pintura figurativa",
+                    "uk": "фігуративний живопис",
+                    "de": "figurativ",
+                    "fr": "figuratif",
+                    "zh": "具象藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e50"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "flower painting",
+                    "ru": "цветочный натюрморт",
+                    "es": "pintura de flores",
+                    "uk": "квітковий натюрморт",
+                    "de": "Blumengemälde",
+                    "fr": "nature morte",
+                    "zh": "花卉畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "6034d116edc2c90fc81c85ef"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "furniture"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e58"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "genre painting",
+                    "ru": "жанровая живопись",
+                    "es": "escena de género",
+                    "uk": "жанровий живопис",
+                    "de": "Genremalerei",
+                    "pl": "malarstwo rodzajowe",
+                    "fr": "scène de genre",
+                    "ko": "풍속화",
+                    "hu": "Életkép",
+                    "it": "pittura di genere",
+                    "ja": "風俗画",
+                    "nl": "genrestuk",
+                    "sv": "Genremåleri",
+                    "pt": "pintura de gênero",
+                    "tr": "Tür resmi",
+                    "th": "ภาพช\u0e35ว\u0e34ตประจำว\u0e31น",
+                    "ca": "pintura de gènere",
+                    "fi": "laatukuva",
+                    "cs": "Žánrová malba",
+                    "bg": "Битова живопис",
+                    "da": "genrebillede",
+                    "id": "Seni genre",
+                    "el": "ρωπογραφία",
+                    "zh": "風俗畫",
+                    "ro": "pictură de gen",
+                    "no": "Sjangermaleri",
+                    "fa": "نقاشی صحنه\u200cهای خودمانی"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e60"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "graffiti",
+                    "ru": "граффити",
+                    "es": "grafiti",
+                    "uk": "графіті",
+                    "de": "Graffiti",
+                    "fr": "graffiti",
+                    "zh": "塗鴉"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e68"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "history painting",
+                    "ru": "историческая живопись",
+                    "es": "pintura de historia",
+                    "uk": "історичний живопис",
+                    "de": "historisches Gemälde",
+                    "pt": "Pintura histórica",
+                    "pl": "Malarstwo historyczne",
+                    "fr": "peinture d'histoire",
+                    "tr": "Tarih resmi",
+                    "th": "จ\u0e34ตรกรรมประว\u0e31ต\u0e34ศาสตร\u0e4c",
+                    "ca": "pintura d'història",
+                    "fi": "Historiamaalaus",
+                    "ja": "歴史画",
+                    "sv": "Historiemåleri",
+                    "da": "historiemaleri",
+                    "nl": "historieschilderkunst",
+                    "it": "pittura storica",
+                    "el": "έργο ιστορικής θεματολογίας",
+                    "ar": "رسم قصصي",
+                    "zh": "歷史畫",
+                    "he": "ציור היסטורי",
+                    "no": "Historiemaleri"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "604c80e8edc2c9b07c100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "icon"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e70"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "illustration",
+                    "ru": "иллюстрация",
+                    "es": "ilustración",
+                    "uk": "ілюстрація",
+                    "de": "Illustration",
+                    "fr": "illustration",
+                    "zh": "插畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e78"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "installation",
+                    "ru": "инсталляция",
+                    "es": "instalación",
+                    "uk": "інсталяція",
+                    "de": "Installation",
+                    "fr": "installation",
+                    "zh": "裝置藝術"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e80"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "interior",
+                    "uk": "інтер'єр",
+                    "ru": "интерьер",
+                    "de": "Innenraum",
+                    "fr": "intérieur",
+                    "zh": "內視圖"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5bd1d08bedc2c9269c8d0577"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "jewelry",
+                    "ar": "مجوهرات",
+                    "bg": "Бижутерия",
+                    "ca": "Joieria",
+                    "cs": "Šperk",
+                    "da": "Smykke",
+                    "de": "Schmuck",
+                    "el": "Κόσμημα",
+                    "es": "Joyería",
+                    "fa": "جواهر",
+                    "fi": "Koru",
+                    "fr": "Joaillerie",
+                    "he": "תכשיט",
+                    "id": "Perhiasan",
+                    "it": "Gioielleria",
+                    "ja": "アンティ\u30fcク・ジュエリ\u30fc",
+                    "ko": "주얼리",
+                    "nl": "Sieraad",
+                    "no": "Smykke",
+                    "pl": "Biżuteria",
+                    "pt": "Joalharia",
+                    "ru": "Ювелирное изделие",
+                    "sv": "Smycke",
+                    "tr": "Mücevher",
+                    "uk": "Ювелірні прикраси",
+                    "vi": "Trang sức",
+                    "zh": "珠寶"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e88"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "landscape",
+                    "ru": "пейзаж",
+                    "es": "paisaje",
+                    "uk": "пейзаж",
+                    "de": "Landschaft",
+                    "fr": "paysage",
+                    "zh": "風景畫",
+                    "pt": "paisagem",
+                    "ar": "مشهد حضري",
+                    "bg": "Ландшафт",
+                    "ca": "Paisatge",
+                    "cs": "Krajina",
+                    "da": "Landskab",
+                    "el": "Τοπίο",
+                    "fa": "چشم\u200cانداز",
+                    "fi": "Maisema",
+                    "he": "נוף",
+                    "id": "Lanskap",
+                    "it": "Paesaggio",
+                    "ja": "ランドスケ\u30fcプ",
+                    "ko": "경관",
+                    "nl": "Landschap",
+                    "pl": "Krajobraz",
+                    "ro": "Peisaj",
+                    "sv": "Landskap",
+                    "th": "ภ\u0e39ม\u0e34ท\u0e31ศน\u0e4c",
+                    "tr": "Peyzaj",
+                    "vi": "Cảnh quan"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e90"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "literary painting",
+                    "ru": "литературная живопись",
+                    "es": "pintura literaria ",
+                    "uk": "літературний живопис",
+                    "de": "literarisches Gemälde"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5f3bb59cedc2c9dfc4532e72"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "manga",
+                    "ar": "مانغاكا",
+                    "bg": "Мангака",
+                    "ca": "Mangaka",
+                    "cs": "Mangaka",
+                    "da": "Mangaka",
+                    "de": "Mangaka",
+                    "el": "Mangaka",
+                    "es": "Mangaka",
+                    "fa": "مانگاکا",
+                    "fi": "Mangaka",
+                    "fr": "Mangaka",
+                    "hu": "Mangaka",
+                    "id": "Mangaka",
+                    "it": "Mangaka",
+                    "ja": "日本の漫画家",
+                    "ko": "일본의 만화가",
+                    "nl": "Mangaka",
+                    "pl": "Mangaka",
+                    "pt": "Mangaká",
+                    "ro": "Mangaka",
+                    "ru": "Мангака",
+                    "sv": "Mangaka",
+                    "tr": "Mangaka",
+                    "uk": "Манґака",
+                    "vi": "Mangaka",
+                    "zh": "日本漫畫家"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6e98"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "marina",
+                    "ru": "марина",
+                    "es": "marina",
+                    "uk": "марина",
+                    "de": "Yachthafen",
+                    "bg": "Маринизъм",
+                    "ca": "Marina",
+                    "cs": "Marina",
+                    "da": "Marinemaleri",
+                    "fa": "هنر دریایی",
+                    "fi": "Merimaalaus",
+                    "fr": "Marine",
+                    "nl": "Marine",
+                    "no": "Marinemaleri",
+                    "pl": "Marina",
+                    "pt": "Arte marinha",
+                    "ro": "Marină",
+                    "sv": "Marinmåleri",
+                    "zh": "海景畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6ea0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "miniature",
+                    "ru": "миниатюра",
+                    "es": "en miniatura",
+                    "uk": "мініатюра",
+                    "de": "Miniatur",
+                    "fr": "miniature",
+                    "zh": "細密畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5bd191d5edc2c9269c9061fc"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "mobile",
+                    "uk": "мобіль"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6ea8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "mosaic",
+                    "ru": "мозаика",
+                    "uk": "мозаїка",
+                    "de": "Mosaik",
+                    "fr": "mosaïque",
+                    "zh": "馬賽克"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5bcf0035edc2c91358100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "mural",
+                    "ar": "لوحة جدارية",
+                    "ca": "Mural",
+                    "cs": "Nástěnná malba",
+                    "da": "Gavlmaleri",
+                    "de": "Wandmalerei",
+                    "el": "Τοιχογραφία",
+                    "es": "Mural",
+                    "fa": "نقاشی دیواری",
+                    "fi": "Seinämaalaus",
+                    "fr": "Peinture murale",
+                    "he": "ציור קיר",
+                    "hu": "Murális művészet",
+                    "id": "Mural",
+                    "it": "Murale",
+                    "ja": "壁画",
+                    "ko": "벽화",
+                    "nl": "Muurschildering",
+                    "no": "Veggmaleri",
+                    "pl": "Mural",
+                    "pt": "Muralismo",
+                    "ro": "Pictură murală",
+                    "ru": "Монументальная живопись",
+                    "sv": "Muralmålning",
+                    "th": "จ\u0e34ตรกรรมฝาผน\u0e31ง",
+                    "tr": "Duvar ressamlığı",
+                    "uk": "Стінопис",
+                    "vi": "Tranh tường",
+                    "zh": "壁畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6eb0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "mythological painting",
+                    "ru": "мифологическая живопись",
+                    "es": "pintura mitológica",
+                    "uk": "міфологічний живопис",
+                    "de": "mythologisches Gemälde",
+                    "fr": "peinture mythologique",
+                    "it": "dipinto a soggetto mitologico",
+                    "nl": "mythologisch schilderij",
+                    "sv": "mytologiskt måleri",
+                    "ja": "神話画",
+                    "pt": "pintura mitológica",
+                    "da": "mytologisk maleri",
+                    "ca": "pintura mitològica",
+                    "pl": "Malarstwo mitologiczne",
+                    "el": "μυθολογικά θέματα",
+                    "he": "ציור מיתולוגיה"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6eb8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "nude painting (nu)",
+                    "ru": "ню",
+                    "es": "desnudo",
+                    "uk": "ню",
+                    "de": "Aktmalerei",
+                    "fr": "nu",
+                    "zh": "裸體畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5f7d7666edc2c9d5988133bc"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "object"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5bf3e47eedc2c90afc100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "ornament",
+                    "ar": "زخرفة",
+                    "ca": "Ornament",
+                    "cs": "Ornament",
+                    "da": "Ornament",
+                    "de": "Ornament",
+                    "el": "Διακόσμηση",
+                    "es": "Ornamento",
+                    "fi": "Ornamentti",
+                    "fr": "Ornement",
+                    "id": "Ornamen",
+                    "it": "Ornato",
+                    "nl": "Ornament",
+                    "no": "Ornament",
+                    "pl": "Ornament",
+                    "pt": "Ornamento",
+                    "ru": "Орнамент",
+                    "sv": "Ornament",
+                    "tr": "Bezeme",
+                    "uk": "Орнамент"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6ec0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "panorama",
+                    "ru": "панорама",
+                    "es": "panorama",
+                    "uk": "панорама",
+                    "de": "Panorama",
+                    "fr": "panorama",
+                    "zh": "全景畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6ec8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "pastorale",
+                    "ru": "пастораль",
+                    "es": "pastoral",
+                    "uk": "пастораль",
+                    "de": "Pastorale",
+                    "zh": "田園風光畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6ed0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "performance",
+                    "ru": "перформанс",
+                    "es": "performance",
+                    "uk": "перформанс",
+                    "de": "Performance",
+                    "fr": "performance",
+                    "zh": "表演"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6ed8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "photo",
+                    "ru": "фото",
+                    "es": "foto",
+                    "uk": "фото",
+                    "de": "Photographie",
+                    "fr": "photo",
+                    "zh": "攝影"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5c40e2c3edc2c91f90100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "pin-up",
+                    "ca": "Noia de calendari",
+                    "cs": "Pin-up girl",
+                    "de": "Pin-up",
+                    "el": "Μοντέλο pin-up",
+                    "es": "Pin-up",
+                    "fa": "پین\u200cآپ",
+                    "fi": "Pin-up",
+                    "fr": "Pin-up",
+                    "hu": "Pin-up girl",
+                    "id": "Pin-up model",
+                    "it": "Pin-up",
+                    "ko": "핀업 걸",
+                    "nl": "Pin-upgirl",
+                    "no": "Pinup",
+                    "pl": "Pin-up",
+                    "pt": "Pin-up",
+                    "ru": "Пинап",
+                    "sv": "Pinuppbild",
+                    "tr": "Pin-up kızı",
+                    "uk": "Пін-ап",
+                    "vi": "Người đẹp",
+                    "zh": "海報女郎"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6ee0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "portrait",
+                    "ru": "портрет",
+                    "es": "retrato",
+                    "uk": "портрет",
+                    "de": "Portrait",
+                    "fr": "portrait",
+                    "zh": "肖像畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6ee8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "poster",
+                    "ru": "плакат",
+                    "es": "cartel",
+                    "uk": "постер",
+                    "de": "Poster",
+                    "zh": "海報"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6ef0"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "quadratura",
+                    "ru": "квадратура",
+                    "es": "quadratura",
+                    "uk": "квадратура",
+                    "de": "Quadratur",
+                    "zh": "幻景繪畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6ef8"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "religious painting",
+                    "ru": "религиозная живопись",
+                    "es": "pintura religiosa",
+                    "uk": "релігійний живопис",
+                    "de": "religiöses Gemälde",
+                    "fr": "peinture religieuse",
+                    "ca": "pintura religiosa",
+                    "it": "pittura religiosa",
+                    "nl": "religieus schilderij",
+                    "pt": "pintura religiosa",
+                    "el": "έργο θρησκευτικής θεματολογίας",
+                    "pl": "malarstwo religijne",
+                    "fi": "uskonnollinen maalaus",
+                    "sv": "religiös målning",
+                    "ja": "宗教画",
+                    "da": "religiøst maleri",
+                    "hu": "vallásos festészet"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f00"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "sculpture",
+                    "ru": "скульптура",
+                    "es": "escultura",
+                    "uk": "скульптура",
+                    "de": "Skulptur",
+                    "fr": "sculpture",
+                    "zh": "雕塑"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f08"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "self-portrait",
+                    "ru": "автопортрет",
+                    "es": "autorretrato",
+                    "uk": "автопортрет",
+                    "de": "Selbstportrait",
+                    "fr": "autoportrait",
+                    "zh": "自畫像"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f10"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "shan shui",
+                    "ru": "шань-шуй",
+                    "es": "shan shui",
+                    "uk": "шань-шуй",
+                    "de": "Shan Shui",
+                    "zh": "山水畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f18"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "sketch and study",
+                    "ru": "эскиз и этюд",
+                    "es": "dibujo y boceto",
+                    "uk": "ескіз та етюд",
+                    "de": "Skizze und Studie",
+                    "fr": "esquisse et étude"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5bd191e6edc2c9269c90cc45"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "stabile",
+                    "uk": "стабіль"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f20"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "still life",
+                    "ru": "натюрморт",
+                    "es": "naturaleza muerta",
+                    "uk": "натюрморт",
+                    "de": "Stillleben",
+                    "pl": "Martwa natura",
+                    "ko": "정물화",
+                    "he": "טבע דומם",
+                    "fr": "nature morte",
+                    "hu": "Csendélet",
+                    "it": "natura morta",
+                    "ja": "静物画",
+                    "sv": "Stilleben",
+                    "nl": "stilleven",
+                    "pt": "Natureza-morta",
+                    "tr": "Natürmort",
+                    "th": "ภาพน\u0e34\u0e48ง",
+                    "ro": "Natură statică",
+                    "ca": "natura morta",
+                    "fi": "Asetelma",
+                    "cs": "zátiší",
+                    "bg": "Натюрморт",
+                    "fa": "طبیعت بی\u200cجان",
+                    "da": "stilleben",
+                    "el": "Νεκρή φύση",
+                    "zh": "静物畫",
+                    "ar": "طبيعة صامتة",
+                    "no": "Stilleben"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f28"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "symbolic painting",
+                    "ru": "символическая живопись",
+                    "es": "pintura simbólica",
+                    "uk": "символічний живопис",
+                    "de": "symbolisches Gemälde",
+                    "fr": "peinture symbolique"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f30"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "tapestry",
+                    "ru": "гобелен",
+                    "uk": "гобелен",
+                    "de": "Wandteppich",
+                    "fr": "tapisserie",
+                    "zh": "織品畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f38"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "tessellation",
+                    "ru": "мозаика",
+                    "es": "mosaico",
+                    "uk": "мозаїка",
+                    "de": "Parkettierung"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "58889c15edc2cc7d80e6bb50"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "trompe-l'œil",
+                    "ar": "ترمبلوي",
+                    "ca": "Trompe-l'œil",
+                    "cs": "Trompe l'oeil",
+                    "da": "Trompe-l’œil",
+                    "de": "Trompe-l’œil",
+                    "es": "Trampantojo",
+                    "fi": "Trompe l’œil",
+                    "fr": "Trompe-l'œil",
+                    "hu": "Trompe-l’oeil",
+                    "id": "Trompe l'oeil",
+                    "it": "Trompe-l'œil",
+                    "ja": "トロンプ・ルイユ",
+                    "nl": "Trompe-l'oeil",
+                    "no": "Trompe-l'œil",
+                    "pl": "Malarstwo iluzjonistyczne",
+                    "pt": "Trompe-l'oeil",
+                    "ro": "Trompe l'œil",
+                    "ru": "Обманка",
+                    "sv": "Trompe l'œil",
+                    "th": "ศ\u0e34ลปะเช\u0e34ง 3 ม\u0e34ต\u0e34",
+                    "tr": "Trompe l'oeil",
+                    "uk": "Тромплей",
+                    "vi": "Trompe-l'œil",
+                    "zh": "錯視畫"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5af98e46edc2c9e6f01deba5"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "tronie",
+                    "da": "Tronie",
+                    "de": "Tronie",
+                    "es": "Tronie",
+                    "fi": "Tronie",
+                    "fr": "Tronie",
+                    "nl": "Tronie",
+                    "ru": "Tronie",
+                    "sv": "Tronie",
+                    "uk": "Вигаданий портрет троньє"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f40"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "urushi-e",
+                    "es": "urushi-e",
+                    "uk": "уруші-е",
+                    "ru": "уруси-э",
+                    "de": "Urushi-e",
+                    "zh": "漆繪"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5eee3044edc2c993000ebaf1"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "utensil",
+                    "zh": "器物"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f48"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "vanitas",
+                    "ru": "ванитас",
+                    "es": "vanitas",
+                    "uk": "ванітас",
+                    "de": "Vanitas",
+                    "it": "vanitas",
+                    "bg": "Vanitas",
+                    "ca": "Vanitas",
+                    "da": "Vanitas",
+                    "fi": "Vanitas",
+                    "fr": "vanité",
+                    "he": "ואניטאס",
+                    "hu": "Vanitas",
+                    "ja": "ヴァニタス",
+                    "nl": "vanitas",
+                    "pl": "Vanitas",
+                    "sv": "Vanitas",
+                    "cs": "pomíjivost",
+                    "vi": "Vanitas",
+                    "pt": "Vanitas",
+                    "zh": "勸世靜物畫",
+                    "ko": "바니타스화"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f50"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "veduta",
+                    "ru": "ведута",
+                    "es": "vedutismo",
+                    "uk": "ведута",
+                    "de": "Vedute",
+                    "ca": "Vedutismo",
+                    "cs": "Veduta",
+                    "da": "Vedutmaleri",
+                    "fi": "Veduta",
+                    "fr": "veduta",
+                    "hu": "Veduta",
+                    "it": "vedutismo",
+                    "nl": "Veduta",
+                    "pl": "Weduta",
+                    "pt": "Veduta",
+                    "ro": "Arta vedutelor",
+                    "sv": "Vedutamåleri",
+                    "he": "ודוטה",
+                    "bg": "Ведут",
+                    "no": "Vedutamaleri"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "5821d99eedc2c99238100000"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "video",
+                    "fr": "vidéo",
+                    "uk": "відео",
+                    "zh": "影視作品"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f58"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "wildlife painting",
+                    "ru": "живопись дикой природы",
+                    "es": "pintura de vida silvestre",
+                    "uk": "живопис дикої природи",
+                    "de": "Gemälde von Wildtieren"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    },
+    {
+        "_id": {
+            "_oid": "57726b4eedc2cb3880ad6f60"
+        },
+        "Content": {
+            "Title": {
+                "Title": {
+                    "en": "yakusha-e",
+                    "es": "yakusha-e",
+                    "uk": "якуша-е",
+                    "ru": "якуся-э",
+                    "de": "Yakusha-e",
+                    "zh": "役者繪"
+                }
+            },
+            "Status": 0,
+            "Group": 3
+        },
+        "IsHinted": false
+    }
+]
